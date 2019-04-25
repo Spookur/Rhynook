@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<!--
+	William Kelly
+	4/24/2019
+	4/24/2019
+-->
+<html lang="en">
+	<head>
+		<title>Contact Us</title>
+	</head>
+	
+	<body>
+		<header>
+			<h1><center>Contact Krinos</center></h1>
+		</header>
+		<hr />
+		<nav>
+			<p><a href="homepage.html">Home</a></p>
+			<p><a href="menu.html">Menu</a></p>
+		</nav>
+		<hr />
+		<form action="submit.html" method="POST"
+				<!-- First name label and textbox -->
+				<label for="name">Name:</label><br />
+				<input type="text" id="name" name="name"><br />
+				<!-- Last name label and textbox -->
+				<label for="email">Email:</label><br />
+				<input type="text" id="email" name="email"><br />
+				<!-- Phone number label and textbox -->
+				<label for="phone">Phone:</label><br />
+				<input type ="text" id="phone" name="phone"><br />
+				<!-- Dropdown menu -->
+				<label for="contact">Reason For Inquiry:</label><br />
+				<select id="contact" name ="contact">
+					<option value="default" selected>Catering</option>
+					<option value="privateparty">Private Party</option>
+					<option value="feedback">Feedback</option>
+					<option value="other">Other</option>
+				</select>
+				<hr />
+				<!-- Text Area -->
+				<label for="info">Additional Information</label><br />
+				<textarea id="info"></textarea><br />
+				<fieldset>
+				<legend>Have you been to the restaurant?</legend><br />
+				<input type="radio" id="choice1" name="questionnaire" value="yes">
+				<label for="choice1">Yes</label><br />
+				<input type="radio" id="choice2" name="questionnaire" value="no">
+				<label for="choice2">No</label><br />
+				</fieldset>
+				<!-- Check List -->
+				<fieldset>
+				<legend>Best days to contact you:</legend><br />
+				<input type="checkbox" id="monday" name="days" value="monday">
+				<label for="monday">M</label><br />
+				<input type="checkbox" id="tuesday" name="days" value="tuesday">
+				<label for="tuesday">T</label><br />
+				<input type="checkbox" id="wednesday" name="days" value="wednesday">
+				<label for="wednesday">W</label><br />
+				<input type="checkbox" id="thursday" name="days" value="thursday">
+				<label for="thursday">R</label><br />
+				<input type="checkbox" id="friday" name="days" value="friday">
+				<label for="friday">F</label><br />
+				</fieldset>
+				<!-- Submit button -->
+				<input type="submit" name="sendrequest" value="Send Request">
+				
+			</form>
+		
+		<nav>
+		
+		</nav>
+		
+		<hr />
+		<footer>
+		<p><center>11466 Crane Rd Kent, OH 44240<center></p>
+		<p><center>330-578-0063<center><p>
+		</footer>
+		
+	</body>
+</html>
