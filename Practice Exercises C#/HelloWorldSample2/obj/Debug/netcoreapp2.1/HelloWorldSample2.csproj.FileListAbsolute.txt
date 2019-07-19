@@ -1,0 +1,11 @@
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\bin\Debug\netcoreapp2.1\HelloWorldSample2.deps.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\bin\Debug\netcoreapp2.1\HelloWorldSample2.runtimeconfig.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\bin\Debug\netcoreapp2.1\HelloWorldSample2.runtimeconfig.dev.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\bin\Debug\netcoreapp2.1\HelloWorldSample2.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\bin\Debug\netcoreapp2.1\HelloWorldSample2.pdb
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\obj\Debug\netcoreapp2.1\HelloWorldSample2.csproj.CoreCompileInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\obj\Debug\netcoreapp2.1\HelloWorldSample2.AssemblyInfoInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\obj\Debug\netcoreapp2.1\HelloWorldSample2.AssemblyInfo.cs
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\obj\Debug\netcoreapp2.1\HelloWorldSample2.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\obj\Debug\netcoreapp2.1\HelloWorldSample2.pdb
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\HelloWorldSample2\obj\Debug\netcoreapp2.1\HelloWorldSample2.csprojAssemblyReference.cache
