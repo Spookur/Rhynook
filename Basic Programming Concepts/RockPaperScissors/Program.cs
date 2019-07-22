@@ -18,9 +18,9 @@ namespace RockPaperScissors
             while (playAgain == true)
             {
                 List<string> win = new List<string>();//creates the different outcomes where the player wins
-                win.Add("13");
-                win.Add("21");
-                win.Add("32");
+                win.Add("Rock Vs. Scissors");
+                win.Add("Paper Vs. Rock");
+                win.Add("Scissors Vs. Paper");
                 List<string> lose = new List<string>();//creates the different outcomes where the player loses
                 lose.Add("12");
                 lose.Add("31");
