@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\PickyEater\bin\Debug\netcoreapp2.1\PickyEater.deps.json
+C:\Users\Owner\source\repos\PickyEater\bin\Debug\netcoreapp2.1\PickyEater.runtimeconfig.json
+C:\Users\Owner\source\repos\PickyEater\bin\Debug\netcoreapp2.1\PickyEater.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\PickyEater\bin\Debug\netcoreapp2.1\PickyEater.dll
+C:\Users\Owner\source\repos\PickyEater\bin\Debug\netcoreapp2.1\PickyEater.pdb
+C:\Users\Owner\source\repos\PickyEater\obj\Debug\netcoreapp2.1\PickyEater.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\PickyEater\obj\Debug\netcoreapp2.1\PickyEater.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\PickyEater\obj\Debug\netcoreapp2.1\PickyEater.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\PickyEater\obj\Debug\netcoreapp2.1\PickyEater.AssemblyInfo.cs
+C:\Users\Owner\source\repos\PickyEater\obj\Debug\netcoreapp2.1\PickyEater.dll
+C:\Users\Owner\source\repos\PickyEater\obj\Debug\netcoreapp2.1\PickyEater.pdb

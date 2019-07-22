@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<!--
+	William Kelly
+	4/18/2019
+	4/18/2019
+-->
+<html lang="en">
+	<head>
+		<title>William's Contacts</title>
+	</head>
+	
+	<body>
+			<h1>Contact Me</h1>
+			<hr />
+			<p><a href="index.html">Home</a></p>
+			<hr />
+			<h2>Information Request</h2>
+			<form action="submit.html" method="POST"
+				<!-- First name label and textbox -->
+				<label for="firstName">First Name:</label><br />
+				<input type="text" id="firstName" name="firstName"><br />
+				<!-- Last name label and textbox -->
+				<label for="lastName">Last Name:</label><br />
+				<input type="text" id="lastName" name="firstName"><br />
+				<!-- Phone number label and textbox -->
+				<label for="phone">Phone:</label><br />
+				<input type ="text" id="phone" name="phone"><br />
+				<!-- Dropdown menu -->
+				<label for="contact">Best time to call:</label><br />
+				<select id="contact" name ="contact">
+					<option value="default" selected>--Select One--</option>
+					<option value="morning">Morning (8AM to 12PM Eastern</option>
+					<option value="afternoon">Afternoon (12PM to 5PM Eastern</option>
+					<option value="evening">Evening (5PM to 8PM Eastern</option>
+				</select>
+				<!-- Check List -->
+				<fieldset>
+				<legend>I am interested in (check all that apply):</legend><br />
+				<input type="checkbox" id="frontEnd" name="interest" value="frontEnd">
+				<label for="frontEnd">Front-End Web Development</label><br />
+				<input type="checkbox" id="backEnd" name="interest" value="backEnd">
+				<label for="backEnd">Back-End Web Development</label><br />
+				<input type="checkbox" id="database" name="interest" value="database">
+				<label for="database">Database Design</label><br />
+				</fieldset>
+				<!-- Radio Buttons -->
+				<fieldset>
+				<legend>I have filled in the client questionnaire form:</legend><br />
+				<input type="radio" id="choice1" name="questionnaire" value="yes">
+				<label for="choice1">Yes</label><br />
+				<input type="radio" id="choice2" name="questionnaire" value="no">
+				<label for="choice2">No</label><br />
+				</fieldset>
+				<!-- Text Area -->
+				<label for="info">Additional Information</label><br />
+				<textarea id="info"></textarea><br />
+				<!-- Submit button -->
+				<input type="submit" name="submit" value="submit">
+				
+			</form>
+			<hr />
+	</body>
+				
+		
+		
+		<nav>
+		
+		</nav>
+		
+		
+		<footer>
+		
+		</footer>
+</html>

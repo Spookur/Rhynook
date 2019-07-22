@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\bin\Debug\netcoreapp2.1\DoOrNotDo.deps.json
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\bin\Debug\netcoreapp2.1\DoOrNotDo.runtimeconfig.json
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\bin\Debug\netcoreapp2.1\DoOrNotDo.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\bin\Debug\netcoreapp2.1\DoOrNotDo.dll
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\bin\Debug\netcoreapp2.1\DoOrNotDo.pdb
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\obj\Debug\netcoreapp2.1\DoOrNotDo.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\obj\Debug\netcoreapp2.1\DoOrNotDo.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\obj\Debug\netcoreapp2.1\DoOrNotDo.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\obj\Debug\netcoreapp2.1\DoOrNotDo.AssemblyInfo.cs
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\obj\Debug\netcoreapp2.1\DoOrNotDo.dll
+C:\Users\Owner\source\repos\DoOrNotDo\DoOrNotDo\obj\Debug\netcoreapp2.1\DoOrNotDo.pdb

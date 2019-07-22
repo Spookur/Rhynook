@@ -1,0 +1,29 @@
+header, footer {
+	background-color:#FFF9C8;
+}
+
+nav a:hover {
+	background-color: #fef9ff;
+    color: #5b7d87; 
+}
+nav a:link {
+  text-decoration: none;
+}
+nav a:active {
+  background-color: FFFFFF;
+} 
+nav a:hover span{
+	font-weight:bold;
+}
+nav .btn {
+    background-color: #DA70D6;
+    color: #000000; 
+	font-family:Dekko;
+}
+.center {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 50%;
+		}
+<link href='https://fonts.googleapis.com/css?family=Dekko' rel='stylesheet'>

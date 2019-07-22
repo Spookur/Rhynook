@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\BewareTheKraken\bin\Debug\netcoreapp2.1\BewareTheKraken.deps.json
+C:\Users\Owner\source\repos\BewareTheKraken\bin\Debug\netcoreapp2.1\BewareTheKraken.runtimeconfig.json
+C:\Users\Owner\source\repos\BewareTheKraken\bin\Debug\netcoreapp2.1\BewareTheKraken.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\BewareTheKraken\bin\Debug\netcoreapp2.1\BewareTheKraken.dll
+C:\Users\Owner\source\repos\BewareTheKraken\bin\Debug\netcoreapp2.1\BewareTheKraken.pdb
+C:\Users\Owner\source\repos\BewareTheKraken\obj\Debug\netcoreapp2.1\BewareTheKraken.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\BewareTheKraken\obj\Debug\netcoreapp2.1\BewareTheKraken.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\BewareTheKraken\obj\Debug\netcoreapp2.1\BewareTheKraken.AssemblyInfo.cs
+C:\Users\Owner\source\repos\BewareTheKraken\obj\Debug\netcoreapp2.1\BewareTheKraken.dll
+C:\Users\Owner\source\repos\BewareTheKraken\obj\Debug\netcoreapp2.1\BewareTheKraken.pdb
