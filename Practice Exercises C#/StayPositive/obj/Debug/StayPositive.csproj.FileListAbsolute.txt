@@ -1,0 +1,7 @@
+C:\Users\Bob's PC\source\repos\StayPositive\bin\Debug\StayPositive.exe.config
+C:\Users\Bob's PC\source\repos\StayPositive\bin\Debug\StayPositive.exe
+C:\Users\Bob's PC\source\repos\StayPositive\bin\Debug\StayPositive.pdb
+C:\Users\Bob's PC\source\repos\StayPositive\obj\Debug\StayPositive.csprojAssemblyReference.cache
+C:\Users\Bob's PC\source\repos\StayPositive\obj\Debug\StayPositive.csproj.CoreCompileInputs.cache
+C:\Users\Bob's PC\source\repos\StayPositive\obj\Debug\StayPositive.exe
+C:\Users\Bob's PC\source\repos\StayPositive\obj\Debug\StayPositive.pdb

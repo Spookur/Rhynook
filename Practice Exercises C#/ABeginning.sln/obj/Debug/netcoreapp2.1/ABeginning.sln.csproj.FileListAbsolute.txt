@@ -1,0 +1,11 @@
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\bin\Debug\netcoreapp2.1\ABeginning.sln.deps.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\bin\Debug\netcoreapp2.1\ABeginning.sln.runtimeconfig.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\bin\Debug\netcoreapp2.1\ABeginning.sln.runtimeconfig.dev.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\bin\Debug\netcoreapp2.1\ABeginning.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\bin\Debug\netcoreapp2.1\ABeginning.sln.pdb
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\obj\Debug\netcoreapp2.1\ABeginning.sln.csprojAssemblyReference.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\obj\Debug\netcoreapp2.1\ABeginning.sln.csproj.CoreCompileInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\obj\Debug\netcoreapp2.1\ABeginning.sln.AssemblyInfoInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\obj\Debug\netcoreapp2.1\ABeginning.sln.AssemblyInfo.cs
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\obj\Debug\netcoreapp2.1\ABeginning.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ABeginning.sln\obj\Debug\netcoreapp2.1\ABeginning.sln.pdb

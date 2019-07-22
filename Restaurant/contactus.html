@@ -6,7 +6,12 @@
 -->
 <html lang="en">
 	<head>
+	<meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<title>Contact Us</title>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous"> 
+		<link href="styles/restaurantStyles.css" rel="stylesheet" type="text/css" />
+		<link href='https://fonts.googleapis.com/css?family=Dekko' rel='stylesheet'>
 	</head>
 	
 	<body>
@@ -15,22 +20,22 @@
 		</header>
 		<hr />
 		<nav>
-			<p><a href="homepage.html">Home</a></p>
-			<p><a href="menu.html">Menu</a></p>
+			<p><a class="btn" href="homepage.html"><span>Home</span></a></p>
+			<p><a class="btn"href="menu.html"><span>Menu</span></a></p>
 		</nav>
 		<hr />
 		<form action="submit.html" method="POST"
 				<!-- First name label and textbox -->
-				<label for="name">Name:</label><br />
+				<label for="name"><strong>Name:</strong></label><br />
 				<input type="text" id="name" name="name"><br />
 				<!-- Last name label and textbox -->
-				<label for="email">Email:</label><br />
+				<label for="email"><strong>Email:</strong></label><br />
 				<input type="text" id="email" name="email"><br />
 				<!-- Phone number label and textbox -->
-				<label for="phone">Phone:</label><br />
+				<label for="phone"><strong>Phone:</strong></label><br />
 				<input type ="text" id="phone" name="phone"><br />
 				<!-- Dropdown menu -->
-				<label for="contact">Reason For Inquiry:</label><br />
+				<label for="contact"><strong>Reason For Inquiry:</strong></label><br />
 				<select id="contact" name ="contact">
 					<option value="default" selected>Catering</option>
 					<option value="privateparty">Private Party</option>
@@ -75,6 +80,9 @@
 		<footer>
 		<p><center>11466 Crane Rd Kent, OH 44240<center></p>
 		<p><center>330-578-0063<center><p>
+		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 		</footer>
 		
 	</body>

@@ -1,0 +1,10 @@
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\bin\Debug\netcoreapp2.1\ProjectGutenber.sln.deps.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\bin\Debug\netcoreapp2.1\ProjectGutenber.sln.runtimeconfig.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\bin\Debug\netcoreapp2.1\ProjectGutenber.sln.runtimeconfig.dev.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\bin\Debug\netcoreapp2.1\ProjectGutenber.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\bin\Debug\netcoreapp2.1\ProjectGutenber.sln.pdb
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\obj\Debug\netcoreapp2.1\ProjectGutenber.sln.csproj.CoreCompileInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\obj\Debug\netcoreapp2.1\ProjectGutenber.sln.AssemblyInfoInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\obj\Debug\netcoreapp2.1\ProjectGutenber.sln.AssemblyInfo.cs
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\obj\Debug\netcoreapp2.1\ProjectGutenber.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\ProjectGutenber.sln\obj\Debug\netcoreapp2.1\ProjectGutenber.sln.pdb

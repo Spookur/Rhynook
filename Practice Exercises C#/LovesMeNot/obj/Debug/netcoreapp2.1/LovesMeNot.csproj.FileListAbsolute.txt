@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\LovesMeNot\bin\Debug\netcoreapp2.1\LovesMeNot.deps.json
+C:\Users\Owner\source\repos\LovesMeNot\bin\Debug\netcoreapp2.1\LovesMeNot.runtimeconfig.json
+C:\Users\Owner\source\repos\LovesMeNot\bin\Debug\netcoreapp2.1\LovesMeNot.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\LovesMeNot\bin\Debug\netcoreapp2.1\LovesMeNot.dll
+C:\Users\Owner\source\repos\LovesMeNot\bin\Debug\netcoreapp2.1\LovesMeNot.pdb
+C:\Users\Owner\source\repos\LovesMeNot\obj\Debug\netcoreapp2.1\LovesMeNot.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\LovesMeNot\obj\Debug\netcoreapp2.1\LovesMeNot.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\LovesMeNot\obj\Debug\netcoreapp2.1\LovesMeNot.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\LovesMeNot\obj\Debug\netcoreapp2.1\LovesMeNot.AssemblyInfo.cs
+C:\Users\Owner\source\repos\LovesMeNot\obj\Debug\netcoreapp2.1\LovesMeNot.dll
+C:\Users\Owner\source\repos\LovesMeNot\obj\Debug\netcoreapp2.1\LovesMeNot.pdb

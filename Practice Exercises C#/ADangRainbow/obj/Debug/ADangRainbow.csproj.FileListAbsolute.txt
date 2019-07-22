@@ -1,0 +1,7 @@
+C:\Users\Bob's PC\source\repos\ADangRainbow\bin\Debug\ADangRainbow.exe.config
+C:\Users\Bob's PC\source\repos\ADangRainbow\bin\Debug\ADangRainbow.exe
+C:\Users\Bob's PC\source\repos\ADangRainbow\bin\Debug\ADangRainbow.pdb
+C:\Users\Bob's PC\source\repos\ADangRainbow\obj\Debug\ADangRainbow.csprojAssemblyReference.cache
+C:\Users\Bob's PC\source\repos\ADangRainbow\obj\Debug\ADangRainbow.csproj.CoreCompileInputs.cache
+C:\Users\Bob's PC\source\repos\ADangRainbow\obj\Debug\ADangRainbow.exe
+C:\Users\Bob's PC\source\repos\ADangRainbow\obj\Debug\ADangRainbow.pdb

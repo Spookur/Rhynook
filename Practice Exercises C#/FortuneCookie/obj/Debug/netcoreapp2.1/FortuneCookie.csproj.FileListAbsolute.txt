@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\FortuneCookie\bin\Debug\netcoreapp2.1\FortuneCookie.deps.json
+C:\Users\Owner\source\repos\FortuneCookie\bin\Debug\netcoreapp2.1\FortuneCookie.runtimeconfig.json
+C:\Users\Owner\source\repos\FortuneCookie\bin\Debug\netcoreapp2.1\FortuneCookie.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\FortuneCookie\bin\Debug\netcoreapp2.1\FortuneCookie.dll
+C:\Users\Owner\source\repos\FortuneCookie\bin\Debug\netcoreapp2.1\FortuneCookie.pdb
+C:\Users\Owner\source\repos\FortuneCookie\obj\Debug\netcoreapp2.1\FortuneCookie.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\FortuneCookie\obj\Debug\netcoreapp2.1\FortuneCookie.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\FortuneCookie\obj\Debug\netcoreapp2.1\FortuneCookie.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\FortuneCookie\obj\Debug\netcoreapp2.1\FortuneCookie.AssemblyInfo.cs
+C:\Users\Owner\source\repos\FortuneCookie\obj\Debug\netcoreapp2.1\FortuneCookie.dll
+C:\Users\Owner\source\repos\FortuneCookie\obj\Debug\netcoreapp2.1\FortuneCookie.pdb

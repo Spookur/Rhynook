@@ -1,0 +1,6 @@
+C:\Users\Bob's PC\source\repos\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\Bob's PC\source\repos\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\Bob's PC\source\repos\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\Bob's PC\source\repos\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\Bob's PC\source\repos\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\Bob's PC\source\repos\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
