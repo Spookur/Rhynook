@@ -1,0 +1,11 @@
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\bin\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.deps.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\bin\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.runtimeconfig.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\bin\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.runtimeconfig.dev.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\bin\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\bin\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.pdb
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\obj\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.csprojAssemblyReference.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\obj\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.csproj.CoreCompileInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\obj\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.AssemblyInfoInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\obj\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.AssemblyInfo.cs
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\obj\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\MoreBucketsMoreFun.sln\obj\Debug\netcoreapp2.1\MoreBucketsMoreFun.sln.pdb

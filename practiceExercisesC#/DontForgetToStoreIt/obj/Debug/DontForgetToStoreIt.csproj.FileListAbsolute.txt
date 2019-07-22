@@ -1,0 +1,7 @@
+C:\Users\Coby\source\repos\DontForgetToStoreIt\bin\Debug\DontForgetToStoreIt.exe.config
+C:\Users\Coby\source\repos\DontForgetToStoreIt\bin\Debug\DontForgetToStoreIt.exe
+C:\Users\Coby\source\repos\DontForgetToStoreIt\bin\Debug\DontForgetToStoreIt.pdb
+C:\Users\Coby\source\repos\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.exe
+C:\Users\Coby\source\repos\DontForgetToStoreIt\obj\Debug\DontForgetToStoreIt.pdb

@@ -1,0 +1,11 @@
+C:\Users\Coby\source\repos\RollerCoaster\bin\Debug\netcoreapp2.1\RollerCoaster.deps.json
+C:\Users\Coby\source\repos\RollerCoaster\bin\Debug\netcoreapp2.1\RollerCoaster.runtimeconfig.json
+C:\Users\Coby\source\repos\RollerCoaster\bin\Debug\netcoreapp2.1\RollerCoaster.runtimeconfig.dev.json
+C:\Users\Coby\source\repos\RollerCoaster\bin\Debug\netcoreapp2.1\RollerCoaster.dll
+C:\Users\Coby\source\repos\RollerCoaster\bin\Debug\netcoreapp2.1\RollerCoaster.pdb
+C:\Users\Coby\source\repos\RollerCoaster\obj\Debug\netcoreapp2.1\RollerCoaster.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\RollerCoaster\obj\Debug\netcoreapp2.1\RollerCoaster.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\RollerCoaster\obj\Debug\netcoreapp2.1\RollerCoaster.AssemblyInfoInputs.cache
+C:\Users\Coby\source\repos\RollerCoaster\obj\Debug\netcoreapp2.1\RollerCoaster.AssemblyInfo.cs
+C:\Users\Coby\source\repos\RollerCoaster\obj\Debug\netcoreapp2.1\RollerCoaster.dll
+C:\Users\Coby\source\repos\RollerCoaster\obj\Debug\netcoreapp2.1\RollerCoaster.pdb

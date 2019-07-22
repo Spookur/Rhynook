@@ -1,0 +1,11 @@
+C:\Users\Coby\source\repos\ReturnToSender\bin\Debug\netcoreapp2.1\ReturnToSender.deps.json
+C:\Users\Coby\source\repos\ReturnToSender\bin\Debug\netcoreapp2.1\ReturnToSender.runtimeconfig.json
+C:\Users\Coby\source\repos\ReturnToSender\bin\Debug\netcoreapp2.1\ReturnToSender.runtimeconfig.dev.json
+C:\Users\Coby\source\repos\ReturnToSender\bin\Debug\netcoreapp2.1\ReturnToSender.dll
+C:\Users\Coby\source\repos\ReturnToSender\bin\Debug\netcoreapp2.1\ReturnToSender.pdb
+C:\Users\Coby\source\repos\ReturnToSender\obj\Debug\netcoreapp2.1\ReturnToSender.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\ReturnToSender\obj\Debug\netcoreapp2.1\ReturnToSender.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\ReturnToSender\obj\Debug\netcoreapp2.1\ReturnToSender.AssemblyInfoInputs.cache
+C:\Users\Coby\source\repos\ReturnToSender\obj\Debug\netcoreapp2.1\ReturnToSender.AssemblyInfo.cs
+C:\Users\Coby\source\repos\ReturnToSender\obj\Debug\netcoreapp2.1\ReturnToSender.dll
+C:\Users\Coby\source\repos\ReturnToSender\obj\Debug\netcoreapp2.1\ReturnToSender.pdb

@@ -1,0 +1,11 @@
+C:\Users\Coby\source\repos\StayPositive\bin\Debug\netcoreapp2.1\StayPositive.deps.json
+C:\Users\Coby\source\repos\StayPositive\bin\Debug\netcoreapp2.1\StayPositive.runtimeconfig.json
+C:\Users\Coby\source\repos\StayPositive\bin\Debug\netcoreapp2.1\StayPositive.runtimeconfig.dev.json
+C:\Users\Coby\source\repos\StayPositive\bin\Debug\netcoreapp2.1\StayPositive.dll
+C:\Users\Coby\source\repos\StayPositive\bin\Debug\netcoreapp2.1\StayPositive.pdb
+C:\Users\Coby\source\repos\StayPositive\obj\Debug\netcoreapp2.1\StayPositive.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\StayPositive\obj\Debug\netcoreapp2.1\StayPositive.AssemblyInfoInputs.cache
+C:\Users\Coby\source\repos\StayPositive\obj\Debug\netcoreapp2.1\StayPositive.AssemblyInfo.cs
+C:\Users\Coby\source\repos\StayPositive\obj\Debug\netcoreapp2.1\StayPositive.dll
+C:\Users\Coby\source\repos\StayPositive\obj\Debug\netcoreapp2.1\StayPositive.pdb
+C:\Users\Coby\source\repos\StayPositive\obj\Debug\netcoreapp2.1\StayPositive.csprojAssemblyReference.cache

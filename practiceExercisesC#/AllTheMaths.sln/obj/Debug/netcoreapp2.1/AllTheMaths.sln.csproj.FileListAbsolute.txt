@@ -1,0 +1,11 @@
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\bin\Debug\netcoreapp2.1\AllTheMaths.sln.deps.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\bin\Debug\netcoreapp2.1\AllTheMaths.sln.runtimeconfig.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\bin\Debug\netcoreapp2.1\AllTheMaths.sln.runtimeconfig.dev.json
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\bin\Debug\netcoreapp2.1\AllTheMaths.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\bin\Debug\netcoreapp2.1\AllTheMaths.sln.pdb
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\obj\Debug\netcoreapp2.1\AllTheMaths.sln.csproj.CoreCompileInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\obj\Debug\netcoreapp2.1\AllTheMaths.sln.AssemblyInfoInputs.cache
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\obj\Debug\netcoreapp2.1\AllTheMaths.sln.AssemblyInfo.cs
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\obj\Debug\netcoreapp2.1\AllTheMaths.sln.dll
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\obj\Debug\netcoreapp2.1\AllTheMaths.sln.pdb
+C:\Users\Coby\Documents\Visual Studio 2019\Projects\AllTheMaths.sln\obj\Debug\netcoreapp2.1\AllTheMaths.sln.csprojAssemblyReference.cache
