@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\Basic Programming Concepts\SummativeSums\bin\Debug\SummativeSums.exe.config
+C:\Repos\Rhynook\Basic Programming Concepts\SummativeSums\bin\Debug\SummativeSums.exe
+C:\Repos\Rhynook\Basic Programming Concepts\SummativeSums\bin\Debug\SummativeSums.pdb
+C:\Repos\Rhynook\Basic Programming Concepts\SummativeSums\obj\Debug\SummativeSums.csprojAssemblyReference.cache
+C:\Repos\Rhynook\Basic Programming Concepts\SummativeSums\obj\Debug\SummativeSums.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\Basic Programming Concepts\SummativeSums\obj\Debug\SummativeSums.exe
+C:\Repos\Rhynook\Basic Programming Concepts\SummativeSums\obj\Debug\SummativeSums.pdb
