@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\source\\repos\\BewareTheKraken\\BewareTheKraken.csproj": {}
+    "C:\\Repos\\Rhynook\\practiceExercisesC#\\BewareTheKraken\\BewareTheKraken.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\source\\repos\\BewareTheKraken\\BewareTheKraken.csproj": {
+    "C:\\Repos\\Rhynook\\practiceExercisesC#\\BewareTheKraken\\BewareTheKraken.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\BewareTheKraken\\BewareTheKraken.csproj",
+        "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BewareTheKraken\\BewareTheKraken.csproj",
         "projectName": "BewareTheKraken",
-        "projectPath": "C:\\Users\\Owner\\source\\repos\\BewareTheKraken\\BewareTheKraken.csproj",
+        "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BewareTheKraken\\BewareTheKraken.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\source\\repos\\BewareTheKraken\\obj\\",
+        "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BewareTheKraken\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

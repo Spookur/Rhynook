@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Coby\\.nuget\\packages\\": {},
+    "C:\\Users\\Owner\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Coby\\source\\repos\\AllAboutMe.sln\\AllAboutMe.sln.csproj",
+      "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\AllAboutMe.sln\\AllAboutMe.sln.csproj",
       "projectName": "AllAboutMe.sln",
-      "projectPath": "C:\\Users\\Coby\\source\\repos\\AllAboutMe.sln\\AllAboutMe.sln.csproj",
-      "packagesPath": "C:\\Users\\Coby\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Coby\\source\\repos\\AllAboutMe.sln\\obj\\",
+      "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\AllAboutMe.sln\\AllAboutMe.sln.csproj",
+      "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\AllAboutMe.sln\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Coby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

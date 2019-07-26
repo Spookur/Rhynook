@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\CoinFlippin\\CoinFlippin.csproj",
+      "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\CoinFlippin\\CoinFlippin.csproj",
       "projectName": "CoinFlippin",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\CoinFlippin\\CoinFlippin.csproj",
+      "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\CoinFlippin\\CoinFlippin.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\CoinFlippin\\obj\\",
+      "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\CoinFlippin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

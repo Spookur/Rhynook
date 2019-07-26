@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Rhynook\\Practice Exercises C#\\BestAdderEver.sln\\BestAdderEver.sln.csproj": {}
+    "C:\\Repos\\Rhynook\\practiceExercisesC#\\BestAdderEver.sln\\BestAdderEver.sln.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Rhynook\\Practice Exercises C#\\BestAdderEver.sln\\BestAdderEver.sln.csproj": {
+    "C:\\Repos\\Rhynook\\practiceExercisesC#\\BestAdderEver.sln\\BestAdderEver.sln.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Rhynook\\Practice Exercises C#\\BestAdderEver.sln\\BestAdderEver.sln.csproj",
+        "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BestAdderEver.sln\\BestAdderEver.sln.csproj",
         "projectName": "BestAdderEver.sln",
-        "projectPath": "C:\\Repos\\Rhynook\\Practice Exercises C#\\BestAdderEver.sln\\BestAdderEver.sln.csproj",
-        "packagesPath": "C:\\Users\\Coby\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Rhynook\\Practice Exercises C#\\BestAdderEver.sln\\obj\\",
+        "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BestAdderEver.sln\\BestAdderEver.sln.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BestAdderEver.sln\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Coby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

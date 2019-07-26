@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Rhynook\\Practice Exercises C#\\ALittleChaos\\ALittleChaos.csproj": {}
+    "C:\\Repos\\Rhynook\\practiceExercisesC#\\ALittleChaos\\ALittleChaos.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Rhynook\\Practice Exercises C#\\ALittleChaos\\ALittleChaos.csproj": {
+    "C:\\Repos\\Rhynook\\practiceExercisesC#\\ALittleChaos\\ALittleChaos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Rhynook\\Practice Exercises C#\\ALittleChaos\\ALittleChaos.csproj",
+        "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\ALittleChaos\\ALittleChaos.csproj",
         "projectName": "ALittleChaos",
-        "projectPath": "C:\\Repos\\Rhynook\\Practice Exercises C#\\ALittleChaos\\ALittleChaos.csproj",
-        "packagesPath": "C:\\Users\\Coby\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Rhynook\\Practice Exercises C#\\ALittleChaos\\obj\\",
+        "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\ALittleChaos\\ALittleChaos.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\ALittleChaos\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Coby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

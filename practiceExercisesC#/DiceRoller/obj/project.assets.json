@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\DiceRoller\\DiceRoller.csproj",
+      "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\DiceRoller\\DiceRoller.csproj",
       "projectName": "DiceRoller",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\DiceRoller\\DiceRoller.csproj",
+      "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\DiceRoller\\DiceRoller.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\DiceRoller\\obj\\",
+      "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\DiceRoller\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

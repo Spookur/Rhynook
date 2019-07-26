@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\FortuneCookie\\FortuneCookie.csproj",
+      "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\FortuneCookie\\FortuneCookie.csproj",
       "projectName": "FortuneCookie",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\FortuneCookie\\FortuneCookie.csproj",
+      "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\FortuneCookie\\FortuneCookie.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\FortuneCookie\\obj\\",
+      "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\FortuneCookie\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -9,3 +9,14 @@ C:\Users\Owner\source\repos\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.Assemb
 C:\Users\Owner\source\repos\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.AssemblyInfo.cs
 C:\Users\Owner\source\repos\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.dll
 C:\Users\Owner\source\repos\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.pdb
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\bin\Debug\netcoreapp2.1\DiceRoller.deps.json
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\bin\Debug\netcoreapp2.1\DiceRoller.runtimeconfig.json
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\bin\Debug\netcoreapp2.1\DiceRoller.runtimeconfig.dev.json
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\bin\Debug\netcoreapp2.1\DiceRoller.dll
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\bin\Debug\netcoreapp2.1\DiceRoller.pdb
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.csprojAssemblyReference.cache
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.AssemblyInfoInputs.cache
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.AssemblyInfo.cs
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.dll
+C:\Repos\Rhynook\practiceExercisesC#\DiceRoller\obj\Debug\netcoreapp2.1\DiceRoller.pdb
