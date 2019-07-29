@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\BasicProgrammingConcepts\RockPaperScissorsV2\bin\Debug\RockPaperScissorsV2.exe.config
+C:\Repos\Rhynook\BasicProgrammingConcepts\RockPaperScissorsV2\bin\Debug\RockPaperScissorsV2.exe
+C:\Repos\Rhynook\BasicProgrammingConcepts\RockPaperScissorsV2\bin\Debug\RockPaperScissorsV2.pdb
+C:\Repos\Rhynook\BasicProgrammingConcepts\RockPaperScissorsV2\obj\Debug\RockPaperScissorsV2.csprojAssemblyReference.cache
+C:\Repos\Rhynook\BasicProgrammingConcepts\RockPaperScissorsV2\obj\Debug\RockPaperScissorsV2.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\BasicProgrammingConcepts\RockPaperScissorsV2\obj\Debug\RockPaperScissorsV2.exe
+C:\Repos\Rhynook\BasicProgrammingConcepts\RockPaperScissorsV2\obj\Debug\RockPaperScissorsV2.pdb

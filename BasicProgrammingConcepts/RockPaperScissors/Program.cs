@@ -12,15 +12,15 @@ namespace RockPaperScissors
         {
 
 
-            //int cpuScore = 0;
-            //int score = 0;
+            int cpuScore = 0;
+            int score = 0;
             bool playAgain = (true);
             while (playAgain == true)
             {
                 List<string> win = new List<string>();//creates the different outcomes where the player wins
-                win.Add("Rock Vs. Scissors");
-                win.Add("Paper Vs. Rock");
-                win.Add("Scissors Vs. Paper");
+                win.Add("13");
+                win.Add("21");
+                win.Add("32");
                 List<string> lose = new List<string>();//creates the different outcomes where the player loses
                 lose.Add("12");
                 lose.Add("31");
@@ -32,6 +32,10 @@ namespace RockPaperScissors
 
 
                 Console.WriteLine("\nWelcome To Rock Paper Scissors");
+                Console.WriteLine("How many rounds do you want to play?");
+                string roundTracker;
+                roundTracker = Console.ReadLine();
+                Console.WriteLine("You will play {0} rounds", roundTracker);
                 string testString;
                 Console.WriteLine("Enter your choice:   1.)Rock  2.)Paper  3.)Scissors");//asks the player for their choice
                 testString = Console.ReadLine();
@@ -49,24 +53,24 @@ namespace RockPaperScissors
                 if (win.Contains(result))//checks if you won
                 {
                     Console.WriteLine("You Won!");
-                    //score = (score+1);//adds one to the players score
+                    score = (score+1);//adds one to the players score
                 }
 
                 else if (lose.Contains(result))//checks if you lost
                 {
                     Console.WriteLine("You lost!");
-                    //cpuScore = (cpuScore+1);//adds one to the cpu's score
+                    cpuScore = (cpuScore+1);//adds one to the cpu's score
                 }
                 else if (tie.Contains(result))//checks if there was a tie
                 {
                     Console.WriteLine("It's a tie!");
                 }
 
-                //Console.Write("Your score is: ");//Outputs the scores
-                //Console.WriteLine(score);
+                Console.Write("Your score is: ");//Outputs the scores
+                Console.WriteLine(score);
 
-                //Console.Write("The computer's score is: ");
-                //Console.WriteLine(cpuScore);
+                Console.Write("The computer's score is: ");
+                Console.WriteLine(cpuScore);
 
 
 
