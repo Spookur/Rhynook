@@ -51,10 +51,17 @@ namespace RockPaperScissors
                         else if (roundsInput < 1 || roundsInput > 10)
                         {
                             Console.WriteLine("Number out of range. Please select a number of rounds in range of 1-10."); // selecting a number out of range displays this.
+<<<<<<< HEAD
 
 
                         }
 
+=======
+                            
+                            
+                        }
+                        
+>>>>>>> 304e6f5ba3183befbaa40d8ac3ea508be8fb3e32
                     }
                 }
 
@@ -71,6 +78,24 @@ namespace RockPaperScissors
                     if (!int.TryParse(selectMode, out inputMode) || inputMode < 1 || inputMode > 3) // takes the user's input and converts it to an integer within 1-3 range.
                     {
                         continue; // This "if" loop makes sure the player has selected a number 1-3. 
+<<<<<<< HEAD
+=======
+                    }
+                    switch (inputMode) // defines what each option actually is upon selection. Rock, paper, or scissors. 
+                    {
+                        case 1:
+                            player = "rock";
+                            break;
+                        case 2:
+                            player = "paper";
+                            break;
+                        case 3:
+                            player = "scissors";
+                            break;
+                        default:
+                            Console.WriteLine("Invalid input");
+                            break;
+>>>>>>> 304e6f5ba3183befbaa40d8ac3ea508be8fb3e32
                     }
                     switch (inputMode) // defines what each option actually is upon selection. Rock, paper, or scissors. 
                     {
@@ -89,19 +114,33 @@ namespace RockPaperScissors
                     }
 
 
+<<<<<<< HEAD
                     if (player == rpsList[computer].ToString())
                         countTies++; // if the player selects the same number that the computer generates, the result is a tie. 
                     else if (player == "rock" && rpsList[computer].Equals("scissors")
+=======
+
+                    if (player == rpsList[computer].ToString()) 
+                        countTies++; // if the player selects the same number that the computer generates, the result is a tie. 
+                    else if (player == "rock" && rpsList[computer].Equals("scissors") 
+>>>>>>> 304e6f5ba3183befbaa40d8ac3ea508be8fb3e32
                         || player == "paper" && rpsList[computer].Equals("rock") // every possible outcome that results in a win for the player. 
                         || player == "scissors" && rpsList[computer].Equals("paper"))
                         countWins++;
                     else countLoses++; // any other outcome will result in a loss. 
 
                     countRounds++; // the number of rounds are going up by 1. 
+<<<<<<< HEAD
                     Console.WriteLine($"Opponent Answer: {rpsList[computer]}");
                     Console.WriteLine($"Ties: {countTies} Wins: {countWins} Loses: {countLoses}");
 
                     inPlay = Reset(countRounds, countWins, countLoses, countTies);
+=======
+                    Console.WriteLine($"Opponent Answer: {rpsList[computer]}"); 
+                    Console.WriteLine($"Ties: {countTies} Wins: {countWins} Loses: {countLoses}");
+
+                    inPlay = Reset(countRounds, countWins, countLoses, countTies); 
+>>>>>>> 304e6f5ba3183befbaa40d8ac3ea508be8fb3e32
 
                 }
             } while (inPlay); // all the statements inside the "do" are performed and then the condition (inPlay) is checked. 
@@ -126,6 +165,7 @@ namespace RockPaperScissors
             {
                 Console.WriteLine("You Lose!");
             }
+<<<<<<< HEAD
 
             Console.WriteLine("Would you like to play again? Type: y/n");
             playAgain = Console.ReadLine().ToLower();
@@ -145,6 +185,27 @@ namespace RockPaperScissors
                 return false;
 
 
+=======
+
+            Console.WriteLine("Would you like to play again? Type: y/n");
+            playAgain = Console.ReadLine().ToLower();
+
+            if (playAgain == "y")
+            {
+                Console.WriteLine("Good luck! (Press enter to continue)");
+                Console.ReadLine();
+                PlayGame();
+                return true;
+                
+            }
+            else if (playAgain == "n")
+            {
+                Console.WriteLine("Thanks for playing!");
+                Console.ReadLine();
+                return false;
+                
+                
+>>>>>>> 304e6f5ba3183befbaa40d8ac3ea508be8fb3e32
             }
             else
             {
@@ -153,13 +214,24 @@ namespace RockPaperScissors
 
 
                 return false;
+<<<<<<< HEAD
 
+=======
+                
+>>>>>>> 304e6f5ba3183befbaa40d8ac3ea508be8fb3e32
             }
 
 
 
+<<<<<<< HEAD
 
         }
 
     }
+=======
+                 
+        }
+        
+    }   
+>>>>>>> 304e6f5ba3183befbaa40d8ac3ea508be8fb3e32
 }
