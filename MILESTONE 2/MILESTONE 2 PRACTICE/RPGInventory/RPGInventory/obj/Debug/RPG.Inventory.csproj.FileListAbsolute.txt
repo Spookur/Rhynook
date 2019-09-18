@@ -1,0 +1,10 @@
+C:\Repos\Rhynook\RPGInventory\RPGInventory\bin\Debug\RPGInventory.dll
+C:\Repos\Rhynook\RPGInventory\RPGInventory\bin\Debug\RPGInventory.pdb
+C:\Repos\Rhynook\RPGInventory\RPGInventory\bin\Debug\nunit.framework.dll
+C:\Repos\Rhynook\RPGInventory\RPGInventory\bin\Debug\nunit.framework.pdb
+C:\Repos\Rhynook\RPGInventory\RPGInventory\bin\Debug\nunit.framework.xml
+C:\Repos\Rhynook\RPGInventory\RPGInventory\obj\Debug\RPG.Inventory.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\RPGInventory\RPGInventory\obj\Debug\RPG.Inventory.csproj.CopyComplete
+C:\Repos\Rhynook\RPGInventory\RPGInventory\obj\Debug\RPGInventory.dll
+C:\Repos\Rhynook\RPGInventory\RPGInventory\obj\Debug\RPGInventory.pdb
+C:\Repos\Rhynook\RPGInventory\RPGInventory\obj\Debug\RPG.Inventory.csprojAssemblyReference.cache

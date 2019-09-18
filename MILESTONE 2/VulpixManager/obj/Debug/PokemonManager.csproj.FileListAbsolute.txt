@@ -1,0 +1,16 @@
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.exe.config
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.exe
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.Controller.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.Data.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.Models.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.View.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.Controller.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.Data.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.Models.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\bin\Debug\VulpixManager.View.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\obj\Debug\PokemonManager.csprojAssemblyReference.cache
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\obj\Debug\PokemonManager.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\obj\Debug\PokemonManager.csproj.CopyComplete
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\obj\Debug\VulpixManager.exe
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\obj\Debug\VulpixManager.pdb

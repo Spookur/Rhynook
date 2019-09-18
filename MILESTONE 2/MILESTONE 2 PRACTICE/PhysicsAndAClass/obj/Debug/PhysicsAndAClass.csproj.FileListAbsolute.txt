@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\PhysicsAndAClass\bin\Debug\PhysicsAndAClass.exe.config
+C:\Repos\Rhynook\PhysicsAndAClass\bin\Debug\PhysicsAndAClass.exe
+C:\Repos\Rhynook\PhysicsAndAClass\bin\Debug\PhysicsAndAClass.pdb
+C:\Repos\Rhynook\PhysicsAndAClass\obj\Debug\PhysicsAndAClass.csprojAssemblyReference.cache
+C:\Repos\Rhynook\PhysicsAndAClass\obj\Debug\PhysicsAndAClass.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\PhysicsAndAClass\obj\Debug\PhysicsAndAClass.exe
+C:\Repos\Rhynook\PhysicsAndAClass\obj\Debug\PhysicsAndAClass.pdb

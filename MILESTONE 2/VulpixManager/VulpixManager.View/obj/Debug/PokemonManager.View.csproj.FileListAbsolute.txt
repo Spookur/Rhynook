@@ -1,0 +1,5 @@
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.View.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.View.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\PokemonManager.View.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\VulpixManager.View.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\VulpixManager.View.pdb
