@@ -41,8 +41,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="inputOutput.cs" />
     <Compile Include="PokemonView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\VulpixManager.Models\PokemonManager.Models.csproj">
+      <Project>{DEE88E84-F3E9-4162-94D4-BB63B3EA9C37}</Project>
+      <Name>PokemonManager.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

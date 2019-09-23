@@ -43,14 +43,19 @@
   <ItemGroup>
     <Compile Include="PokemonController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Program.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\VulpixManager.Data\PokemonManager.Data.csproj">
-      <Project>{617BC511-F9F1-4489-A6CF-E8972A96228A}</Project>
+      <Project>{617bc511-f9f1-4489-a6cf-e8972a96228a}</Project>
       <Name>PokemonManager.Data</Name>
     </ProjectReference>
+    <ProjectReference Include="..\VulpixManager.Models\PokemonManager.Models.csproj">
+      <Project>{dee88e84-f3e9-4162-94d4-bb63b3ea9c37}</Project>
+      <Name>PokemonManager.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\VulpixManager.View\PokemonManager.View.csproj">
-      <Project>{F2A1149C-F23F-4302-9200-909E25BDC35B}</Project>
+      <Project>{f2a1149c-f23f-4302-9200-909e25bdc35b}</Project>
       <Name>PokemonManager.View</Name>
     </ProjectReference>
   </ItemGroup>

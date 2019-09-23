@@ -3,3 +3,7 @@ C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixMa
 C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\PokemonManager.View.csproj.CoreCompileInputs.cache
 C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\VulpixManager.View.dll
 C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\VulpixManager.View.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\PokemonManager.View.csprojAssemblyReference.cache
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.Models.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.Models.pdb
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\PokemonManager.View.csproj.CopyComplete

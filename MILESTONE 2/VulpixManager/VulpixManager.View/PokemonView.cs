@@ -3,17 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PokemonManager.Models;
+using PokemonManager.View;
+using VulpixManager.View;
 
 namespace PokemonManager.View
 {
     public class PokemonView
     {
         int result;
-        public int GetMenuChoice(int b, int c)
-        {
-            return b / c;
-        }
 
+        
+
+
+
+        public Pokemon CreatePokemon()
+        {
+            inputOutput io = new inputOutput();
+            Pokemon pokemon = new Pokemon();
+            pokemon.Name = io.GetName();
+            
+            pokemon.Description = io.GetName();
+            // repeat above line for each 
+            return pokemon;
+        }
         public void GetNewPokemonInfo()
         {
 
@@ -26,7 +39,9 @@ namespace PokemonManager.View
 
         public int SearchPokemon()
         {
-            return result;
+            Console.WriteLine("Enter an id");
+            int id = int.Parse(Console.ReadLine());
+            return id;
         }
 
         public bool ConfirmRemovePokemon()
@@ -34,6 +49,6 @@ namespace PokemonManager.View
             return true;
         }
 
-        
+
     }
 }

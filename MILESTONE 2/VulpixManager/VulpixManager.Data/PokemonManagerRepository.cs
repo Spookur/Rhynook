@@ -4,13 +4,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PokemonManager.Data;
 
 namespace PokemonManager.Data
 {
     public class PokemonManagerRepository
     {
 
-        public static List<Pokemon> data;
+        public List<Pokemon> data;
 
         public PokemonManagerRepository()
         {
@@ -21,7 +22,10 @@ namespace PokemonManager.Data
         }
         public Pokemon Create(Pokemon input)
         {
-            return new Pokemon();
+            data.Add(input);
+            return input;
+            
+
         }
 
         public List<Pokemon> ReadAll()
@@ -29,19 +33,33 @@ namespace PokemonManager.Data
             return data;
         }
 
-        public Pokemon ReadByID(int id) // use looping
+        public Pokemon ReadByID(int id) 
         {
-            return new Pokemon(); 
+            
+            // create a new pokemon object and assign that to a return
+
+            Pokemon pokemon = new Pokemon();
+
+            
+
+            for (int i = 0; i < data.Count; i++) // loop through list of objects (data<Pokemon>)
+            {
+                if (data[i].Id == id)
+                {
+                    pokemon = data[i]; 
+                }
+            }
+            return pokemon;
         }
 
         public void Update(int id)
         {
-            
+
         }
 
         public void Delete(int id)
         {
-            
+
         }
     }
 }
