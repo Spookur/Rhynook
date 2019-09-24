@@ -7,3 +7,5 @@ C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\PokemonM
 C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.Models.dll
 C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.Models.pdb
 C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\obj\Debug\PokemonManager.View.csproj.CopyComplete
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.Data.dll
+C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.View\bin\Debug\VulpixManager.Data.pdb

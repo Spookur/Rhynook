@@ -10,48 +10,23 @@ namespace VulpixManager.View
     {
         public string GetName()
         {
-            while (true)
+            string _name = "";
+            bool validInput = false;
+
+            while (!validInput)
             {
+
                 Console.WriteLine("Please enter a name.");
-                string _name = Console.ReadLine();
+                _name = Console.ReadLine();
                 Console.WriteLine("You have chosen " + _name + ". Is that correct? (Type y/n)");
 
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
+                    Console.WriteLine("Okay, now what about the Type? ");
                     
-                    Console.WriteLine("That's a great name. Now onto the type of Pokemon.");
-                    Console.ReadLine();
-                    
-                    return _name;
-                    
-                    
-                    
-                }
+                    validInput = true;
 
-                else 
-                {
-                    Console.WriteLine("Invalid input.");
-                    Console.ReadLine();
-                    Console.Clear();
-                }
-            }
-        }
-
-        public string GetType(string _name)
-        {
-            while (true)
-            {
-                Console.WriteLine("Enter it's type.");
-                string _pokeType = Console.ReadLine();
-                Console.WriteLine(_name + "'s Type is " + _pokeType + ". Is that correct? (Type y/n)");
-
-                string correct = Console.ReadLine().ToLower();
-                if (correct == "y")
-                {
-                    Console.WriteLine("Okay, now what about the ID number? ");
-                    Console.ReadLine();
-                    return _pokeType;
                 }
 
                 else
@@ -60,57 +35,115 @@ namespace VulpixManager.View
                     Console.ReadLine();
                     Console.Clear();
                 }
+
             }
+
+            return _name;
         }
 
-        public int GetInteger(string _name)
+        public string GetType()
         {
-            while (true)
+            string _pokeType = "";
+            bool validInput = false;
+
+            while (!validInput)
             {
-                Console.WriteLine("Choose a number that isn't already claimed by another Pokemon, then press enter.");
 
-                string _id = Console.ReadLine();
-
-                Console.WriteLine(_name + "'s ID number is " + _id + ". Is this the number you want? (Type y/n)");
+                Console.WriteLine("Please enter a type.");
+                _pokeType = Console.ReadLine();
+                Console.WriteLine("You have chosen " + _pokeType + ". Is that correct? (Type y/n)");
 
                 string correct = Console.ReadLine().ToLower();
-
                 if (correct == "y")
                 {
-                    Console.WriteLine("Onto the description of " + _name + ".");
+                    Console.WriteLine("Okay, now what about the description? ");
+                    
+                    validInput = true;
+
                 }
 
-                else if (correct == "n")
+                else
                 {
-                    Console.WriteLine("");
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
                 }
+
             }
-            // tryParses
+
+            return _pokeType;
+
         }
 
-        public string GetDescription(string _name)
+
+        public string GetDescription()
         {
-            while (true)
+            string _description = "";
+            bool validInput = false;
+
+            while (!validInput)
             {
-                Console.WriteLine("Describe " + _name + " then press enter.");
 
-                string _description = Console.ReadLine();
-
-                Console.WriteLine(_name + "'s Description is: " + _description + " //// Is that correct? (Type y/n)");
+                Console.WriteLine("Please enter a description.");
+                _description = Console.ReadLine();
+                Console.WriteLine("You have chosen " + _description + ". Is that correct? (Type y/n)");
 
                 string correct = Console.ReadLine().ToLower();
-
                 if (correct == "y")
                 {
-                    Console.WriteLine("Great, all of " + _name + "'s data will be stored. ");
+                    Console.WriteLine("Okay, now what about the ID? ");
+                    Console.ReadLine();
+                    validInput = true;
+
                 }
 
-                else if (correct == "n")
+                else
                 {
-                    Console.WriteLine("");
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
                 }
+
             }
+
+            return _description;
+
         }
 
+        public int GetInteger()
+        {
+            int _id = 0;
+            bool validInput = false;
+
+            while (!validInput)
+            {
+
+                Console.WriteLine("Please enter an ID.");
+                _id = int.Parse(Console.ReadLine());
+                Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Okay, great. It will be stored!");
+                    Console.ReadLine();
+                    validInput = true;
+
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+
+            }
+
+            return _id;
+
+        }
     }
+
+    
 }

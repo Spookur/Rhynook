@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Rhynook\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\RollerCoaster\\RollerCoaster.csproj",
+      "projectUniqueName": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\RollerCoaster\\RollerCoaster.csproj",
       "projectName": "RollerCoaster",
-      "projectPath": "C:\\Repos\\Rhynook\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\RollerCoaster\\RollerCoaster.csproj",
+      "projectPath": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\RollerCoaster\\RollerCoaster.csproj",
       "packagesPath": "C:\\Users\\Coby\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Rhynook\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\RollerCoaster\\obj\\",
+      "outputPath": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\RollerCoaster\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

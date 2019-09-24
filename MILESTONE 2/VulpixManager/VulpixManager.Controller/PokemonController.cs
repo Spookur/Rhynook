@@ -60,8 +60,7 @@ namespace PokemonManager.Controller
                         break;
 
                 }
-                // Call method in view to get menu choice (return int)
-                // switch statement to decide which method to call (call one of the other methods in this class) 
+                
             }
         }
         private void CreatePokemon()

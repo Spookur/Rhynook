@@ -46,6 +46,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\VulpixManager.Data\PokemonManager.Data.csproj">
+      <Project>{617BC511-F9F1-4489-A6CF-E8972A96228A}</Project>
+      <Name>PokemonManager.Data</Name>
+    </ProjectReference>
     <ProjectReference Include="..\VulpixManager.Models\PokemonManager.Models.csproj">
       <Project>{DEE88E84-F3E9-4162-94D4-BB63B3EA9C37}</Project>
       <Name>PokemonManager.Models</Name>

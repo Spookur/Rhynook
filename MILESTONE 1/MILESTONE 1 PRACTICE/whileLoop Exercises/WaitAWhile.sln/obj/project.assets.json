@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\Rhynook\\Practice Exercises C#\\WaitAWhile.sln\\WaitAWhile.sln.csproj",
+      "projectUniqueName": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\WaitAWhile.sln\\WaitAWhile.sln.csproj",
       "projectName": "WaitAWhile.sln",
-      "projectPath": "C:\\Repos\\Rhynook\\Practice Exercises C#\\WaitAWhile.sln\\WaitAWhile.sln.csproj",
+      "projectPath": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\WaitAWhile.sln\\WaitAWhile.sln.csproj",
       "packagesPath": "C:\\Users\\Coby\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\Rhynook\\Practice Exercises C#\\WaitAWhile.sln\\obj\\",
+      "outputPath": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\whileLoop Exercises\\WaitAWhile.sln\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

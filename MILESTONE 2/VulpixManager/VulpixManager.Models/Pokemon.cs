@@ -8,24 +8,44 @@ namespace PokemonManager.Models
 {
     public class Pokemon
     {
-        public int Id;
-        public string Name;
-        public int PokeType;
-        public string Description;
-        public float Rating;
+    
+        
+        public int Id { get; set; }
 
+        private string _name;
+        public string Name
+        {
+            get { return _name; }
+            set
+            {
+                 
+            }
+        }
+
+        private string _pokeType;
+        public string PokeType
+        {
+            get { return _pokeType; }
+            set
+            {
+
+            }
+        }
+
+        private string _description;
+        public string Description
+        {
+            get { return _description; }
+            set
+            {
+
+            }
+        }
+
+        
         public Pokemon()
         {
 
-        }
-
-        public Pokemon(int _id, string _name, int _pokeType, string _description, float _rating)
-        {
-            Id = _id;
-            Name = _name;
-            PokeType = _pokeType;
-            Description = _description;
-            Rating = _rating;
         }
 
         public void Print()
@@ -33,8 +53,8 @@ namespace PokemonManager.Models
             Console.WriteLine("id: " + Id);
             Console.WriteLine("Name: " + Name);
             Console.WriteLine("Type: " + PokeType);
-            Console.WriteLine("Director: " + Description);
-            Console.WriteLine("Rating: " + Rating);
+            Console.WriteLine("Description: " + Description);
+            
         }
 
         

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using PokemonManager.Data;
 using PokemonManager.Models;
 using PokemonManager.View;
 using VulpixManager.View;
@@ -12,18 +13,22 @@ namespace PokemonManager.View
     public class PokemonView
     {
         int result;
+        inputOutput io = new inputOutput();
 
-        
 
 
 
         public Pokemon CreatePokemon()
         {
-            inputOutput io = new inputOutput();
-            Pokemon pokemon = new Pokemon();
-            pokemon.Name = io.GetName();
             
-            pokemon.Description = io.GetName();
+            Pokemon pokemon = new Pokemon();
+            
+            pokemon.Name = io.GetName();
+            pokemon.PokeType = io.GetType();
+            pokemon.Description = io.GetDescription();
+            pokemon.Id = io.GetInteger();
+
+
             // repeat above line for each 
             return pokemon;
         }
@@ -34,6 +39,12 @@ namespace PokemonManager.View
 
         public void DisplayPokemon()
         {
+            inputOutput io = new inputOutput();
+            Pokemon pokemon = new Pokemon();
+            PokemonManagerRepository repo = new PokemonManagerRepository();
+            pokemon.Print();
+            repo.ReadAll();
+           
 
         }
 
