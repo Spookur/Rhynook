@@ -1,0 +1,14 @@
+C:\Users\Coby\source\repos\testMe\bin\Debug\testMe.exe.config
+C:\Users\Coby\source\repos\testMe\bin\Debug\testMe.exe
+C:\Users\Coby\source\repos\testMe\bin\Debug\testMe.pdb
+C:\Users\Coby\source\repos\testMe\obj\Debug\testMe.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\testMe\obj\Debug\testMe.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\testMe\obj\Debug\testMe.exe
+C:\Users\Coby\source\repos\testMe\obj\Debug\testMe.pdb
+C:\Repos\Rhynook\goblinBattle RPG Practice\bin\Debug\testMe.exe.config
+C:\Repos\Rhynook\goblinBattle RPG Practice\bin\Debug\testMe.exe
+C:\Repos\Rhynook\goblinBattle RPG Practice\bin\Debug\testMe.pdb
+C:\Repos\Rhynook\goblinBattle RPG Practice\obj\Debug\testMe.csprojAssemblyReference.cache
+C:\Repos\Rhynook\goblinBattle RPG Practice\obj\Debug\testMe.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\goblinBattle RPG Practice\obj\Debug\testMe.exe
+C:\Repos\Rhynook\goblinBattle RPG Practice\obj\Debug\testMe.pdb

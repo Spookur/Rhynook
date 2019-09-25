@@ -1,7 +1,0 @@
-C:\Users\Bob's PC\source\repos\TwoForsAndTenYearsAgo\bin\Debug\TwoForsAndTenYearsAgo.exe.config
-C:\Users\Bob's PC\source\repos\TwoForsAndTenYearsAgo\bin\Debug\TwoForsAndTenYearsAgo.exe
-C:\Users\Bob's PC\source\repos\TwoForsAndTenYearsAgo\bin\Debug\TwoForsAndTenYearsAgo.pdb
-C:\Users\Bob's PC\source\repos\TwoForsAndTenYearsAgo\obj\Debug\TwoForsAndTenYearsAgo.csprojAssemblyReference.cache
-C:\Users\Bob's PC\source\repos\TwoForsAndTenYearsAgo\obj\Debug\TwoForsAndTenYearsAgo.csproj.CoreCompileInputs.cache
-C:\Users\Bob's PC\source\repos\TwoForsAndTenYearsAgo\obj\Debug\TwoForsAndTenYearsAgo.exe
-C:\Users\Bob's PC\source\repos\TwoForsAndTenYearsAgo\obj\Debug\TwoForsAndTenYearsAgo.pdb

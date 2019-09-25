@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\ScratchPaperCode\bin\Debug\ScratchPaperCode.exe.config
+C:\Repos\Rhynook\ScratchPaperCode\bin\Debug\ScratchPaperCode.exe
+C:\Repos\Rhynook\ScratchPaperCode\bin\Debug\ScratchPaperCode.pdb
+C:\Repos\Rhynook\ScratchPaperCode\obj\Debug\ScratchPaperCode.csprojAssemblyReference.cache
+C:\Repos\Rhynook\ScratchPaperCode\obj\Debug\ScratchPaperCode.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\ScratchPaperCode\obj\Debug\ScratchPaperCode.exe
+C:\Repos\Rhynook\ScratchPaperCode\obj\Debug\ScratchPaperCode.pdb
