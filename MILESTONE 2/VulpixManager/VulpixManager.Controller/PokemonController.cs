@@ -13,13 +13,15 @@ namespace PokemonManager.Controller
     {
         PokemonView view;
         PokemonManagerRepository repo;
+        
         public PokemonController()
         {
             view = new PokemonView();
             repo = new PokemonManagerRepository();
+            
         }
 
-        public void Run()
+        public void Run() // the main menu with the 5 options
         {
             while (true)
             {
@@ -63,50 +65,56 @@ namespace PokemonManager.Controller
                 
             }
         }
-        private void CreatePokemon()
+        private void CreatePokemon() // case 1 executes this
         {
             Console.WriteLine("You have chosen to create a new pokemon. What will the Pokemon's name be?");
 
-            Pokemon pokemon = view.CreatePokemon();
-            repo.Create(pokemon);
-
-
-          
-            
-            
-            // 1. Call method in view to get new pokemon info (return Pokemon) need object to hold that data
-            // 2. Pass that pokemon to the repository to create
+            Pokemon pokemon = view.CreatePokemon(); // called method in view to get new pokemon info ---> PokemonView.cs
+            repo.Create(pokemon); // passed the pokemon to the repository
         }
 
-        public void DisplayPokemon()
+        public void DisplayPokemon() // case 2 executes this
         {
-            repo = new PokemonManagerRepository();
+            List<Pokemon> pokeList = repo.ReadAll();
+
+            Console.Clear();
             
-
-
-
+            for (int i = 0; i < pokeList.Count; i++)
+            {
+                
+                view.DisplayPokemon(pokeList[i]);
+                
+                
+            }
         }
 
-        public int SearchPokemon()
+        
+        public int SearchPokemon() // case 3 executes this
         {
+            
             
             Console.WriteLine("Enter an id");
+           
+           
             int id = int.Parse(Console.ReadLine());
+            repo.ReadByID(id);
+            
+            
             return id;
             
-            // 1. Call method in view to get id from user
-            // 2. Pass that id to data layer to find pokemon by that id (will get a pokemon)
-            // 3. Pass pokemon to view to display
+            // 1. Get id from user
+            // 2. Loop through Pokemon Repo to find Id (return pokemon)
+            // 3. Display pokemon that is returned
         }
 
-        private void EditPokemon()
+        private void EditPokemon() // case 4 executes this
         {
             Console.WriteLine("Edit me.");
         }
 
-        private void RemovePokemon()
+        private void RemovePokemon() // case 5 executes this
         {
-            Console.WriteLine("Remove me.");
+            
         }
 
     }

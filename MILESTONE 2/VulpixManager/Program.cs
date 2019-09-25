@@ -12,9 +12,15 @@ namespace PokemonManager
     {
         static void Main(string[] args)
         {
-            PokemonController controller = new PokemonController();
-            controller.Run();
-            Console.ReadLine();
+            PokemonController controller = new PokemonController(); // create a new instance of controller
+            controller.Run(); // execute the Run method in the controller
+            
+            
+
+
+
+               
+            
         }
 
       

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\Rhynook\\practiceExercisesC#\\BirdsInPie\\BirdsInPie.csproj": {}
+    "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\forLoop Exercises\\BirdsInPie\\BirdsInPie.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\Rhynook\\practiceExercisesC#\\BirdsInPie\\BirdsInPie.csproj": {
+    "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\forLoop Exercises\\BirdsInPie\\BirdsInPie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BirdsInPie\\BirdsInPie.csproj",
+        "projectUniqueName": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\forLoop Exercises\\BirdsInPie\\BirdsInPie.csproj",
         "projectName": "BirdsInPie",
-        "projectPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BirdsInPie\\BirdsInPie.csproj",
+        "projectPath": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\forLoop Exercises\\BirdsInPie\\BirdsInPie.csproj",
         "packagesPath": "C:\\Users\\Coby\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\Rhynook\\practiceExercisesC#\\BirdsInPie\\obj\\",
+        "outputPath": "C:\\Repos\\Rhynook\\MILESTONE 1\\MILESTONE 1 PRACTICE\\forLoop Exercises\\BirdsInPie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

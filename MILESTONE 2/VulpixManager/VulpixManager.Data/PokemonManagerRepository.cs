@@ -23,6 +23,7 @@ namespace PokemonManager.Data
         public Pokemon Create(Pokemon input)
         {
             data.Add(input);
+            
             return input;
             
 
@@ -33,7 +34,7 @@ namespace PokemonManager.Data
             return data;
         }
 
-        public Pokemon ReadByID(int id) 
+        public Pokemon ReadByID(int id) // STEP 3
         {
             
             // create a new pokemon object and assign that to a return
@@ -57,9 +58,10 @@ namespace PokemonManager.Data
 
         }
 
-        public void Delete(int id)
+        public Pokemon Delete(Pokemon input)
         {
-
+            data.Remove(input);
+            return input;
         }
     }
 }

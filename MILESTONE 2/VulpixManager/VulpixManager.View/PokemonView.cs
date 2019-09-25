@@ -13,23 +13,23 @@ namespace PokemonManager.View
     public class PokemonView
     {
         int result;
-        inputOutput io = new inputOutput();
+        private inputOutput io = new inputOutput();
 
 
 
 
-        public Pokemon CreatePokemon()
+        public Pokemon CreatePokemon() // stores what the user entered
         {
             
             Pokemon pokemon = new Pokemon();
+
+            // goes through each of these prompts in the inputOutput class to get user input
             
             pokemon.Name = io.GetName();
             pokemon.PokeType = io.GetType();
             pokemon.Description = io.GetDescription();
             pokemon.Id = io.GetInteger();
 
-
-            // repeat above line for each 
             return pokemon;
         }
         public void GetNewPokemonInfo()
@@ -37,22 +37,18 @@ namespace PokemonManager.View
 
         }
 
-        public void DisplayPokemon()
+        public void DisplayPokemon(Pokemon pokemon)
         {
-            inputOutput io = new inputOutput();
-            Pokemon pokemon = new Pokemon();
-            PokemonManagerRepository repo = new PokemonManagerRepository();
+
             pokemon.Print();
-            repo.ReadAll();
+            
            
 
         }
 
-        public int SearchPokemon()
+        public void SearchPokemon(Pokemon pokemon) // STEP 3
         {
-            Console.WriteLine("Enter an id");
-            int id = int.Parse(Console.ReadLine());
-            return id;
+            pokemon.Print();
         }
 
         public bool ConfirmRemovePokemon()
