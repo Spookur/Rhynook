@@ -22,7 +22,7 @@ namespace PokemonManager.Data
         }
         public Pokemon Create(Pokemon input)
         {
-            data.Add(input);
+            data.Add(input); // adds the new Pokemon to the list.
             
             return input;
             
@@ -41,6 +41,7 @@ namespace PokemonManager.Data
 
             Pokemon pokemon = new Pokemon();
 
+
             
 
             for (int i = 0; i < data.Count; i++) // loop through list of objects (data<Pokemon>)
@@ -48,6 +49,7 @@ namespace PokemonManager.Data
                 if (data[i].Id == id)
                 {
                     pokemon = data[i]; 
+                    
                 }
             }
             return pokemon;
@@ -58,10 +60,9 @@ namespace PokemonManager.Data
 
         }
 
-        public Pokemon Delete(Pokemon input)
+        public void Delete()
         {
-            data.Remove(input);
-            return input;
+            
         }
     }
 }

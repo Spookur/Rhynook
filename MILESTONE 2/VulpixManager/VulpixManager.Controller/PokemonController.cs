@@ -75,36 +75,24 @@ namespace PokemonManager.Controller
 
         public void DisplayPokemon() // case 2 executes this
         {
-            List<Pokemon> pokeList = repo.ReadAll();
+            List<Pokemon> pokeList = repo.ReadAll(); // new instance of the list of Pokemon, set it equal to the data in the repository
 
             Console.Clear();
             
-            for (int i = 0; i < pokeList.Count; i++)
+            for (int i = 0; i < pokeList.Count; i++) // files through the list of Pokemon that have been created
             {
                 
-                view.DisplayPokemon(pokeList[i]);
+                view.DisplayPokemon(pokeList[i]); // calls the Display method in the view and passes in the list
                 
                 
             }
         }
 
-        
         public int SearchPokemon() // case 3 executes this
         {
             
+            repo.ReadByID()
             
-            Console.WriteLine("Enter an id");
-           
-           
-            int id = int.Parse(Console.ReadLine());
-            repo.ReadByID(id);
-            
-            
-            return id;
-            
-            // 1. Get id from user
-            // 2. Loop through Pokemon Repo to find Id (return pokemon)
-            // 3. Display pokemon that is returned
         }
 
         private void EditPokemon() // case 4 executes this
@@ -114,7 +102,10 @@ namespace PokemonManager.Controller
 
         private void RemovePokemon() // case 5 executes this
         {
-            
+            Console.WriteLine("You have chosen to remove a Pokemon. Which Pokemon do you want to remove?");
+
+            Pokemon pokemon = view.ConfirmRemovePokemon();
+            repo.Delete();
         }
 
     }

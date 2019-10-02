@@ -114,12 +114,14 @@ namespace VulpixManager.View
         {
             int _id = 0;
             bool validInput = false;
+            
 
             while (!validInput)
             {
+                
 
                 Console.WriteLine("Please enter an ID.");
-                _id = int.Parse(Console.ReadLine());
+                validInput = int.TryParse(Console.ReadLine(), out _id);
                 Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
 
                 string correct = Console.ReadLine().ToLower();
@@ -136,12 +138,51 @@ namespace VulpixManager.View
                     Console.WriteLine("Invalid input.");
                     Console.ReadLine();
                     Console.Clear();
+                    validInput = false;
                 }
 
             }
 
             return _id;
 
+        }
+
+        public int GetValidID()
+        {
+            int _id = 0;
+            bool validInput = false;
+
+            while (!validInput)
+            {
+                Console.WriteLine("Please enter the ID of the Pokemon you want to remove.");
+                _id = int.Parse(Console.ReadLine());
+                Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("ID number" + _id + "will be removed.");
+                    Console.ReadLine();
+                    validInput = true;
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+            }
+
+            return _id;
+        }
+
+        public int GetSearchId()
+        {
+            int _id = 0;
+      
+
+            return _id;
         }
     }
 

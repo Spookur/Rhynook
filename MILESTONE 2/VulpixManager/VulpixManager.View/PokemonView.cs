@@ -32,28 +32,34 @@ namespace PokemonManager.View
 
             return pokemon;
         }
-        public void GetNewPokemonInfo()
-        {
-
-        }
 
         public void DisplayPokemon(Pokemon pokemon)
         {
 
-            pokemon.Print();
+            pokemon.Print(); // call the Print method in the Pokemon class
             
            
 
         }
 
-        public void SearchPokemon(Pokemon pokemon) // STEP 3
+        public Pokemon SearchPokemon() // STEP 3
         {
-            pokemon.Print();
+            Pokemon pokemon = new Pokemon();
+            pokemon.Id = io.GetSearchId();
+
+
+
+            return pokemon;
         }
 
-        public bool ConfirmRemovePokemon()
+        public Pokemon ConfirmRemovePokemon()
         {
-            return true;
+            Pokemon pokemon = new Pokemon();
+
+            pokemon.Id = io.GetValidID();
+
+            return pokemon;
+            
         }
 
 
