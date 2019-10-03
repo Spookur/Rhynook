@@ -93,7 +93,8 @@ namespace PokemonManager.Controller
 
             Pokemon pokemon = view.SearchPokemon();
             repo.ReadByID(pokemon.Id);
-            
+           
+            pokemon.Print();
             
         }
 
@@ -104,10 +105,8 @@ namespace PokemonManager.Controller
 
         private void RemovePokemon() // case 5 executes this
         {
-            Console.WriteLine("You have chosen to remove a Pokemon. Which Pokemon do you want to remove?");
-
             Pokemon pokemon = view.ConfirmRemovePokemon();
-            repo.Delete();
+            repo.Delete(pokemon.Id);
         }
 
     }

@@ -161,7 +161,7 @@ namespace VulpixManager.View
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
-                    Console.WriteLine("ID number" + _id + "will be removed.");
+                    Console.WriteLine("ID number" + _id + " will be removed.");
                     Console.ReadLine();
                     validInput = true;
                 }

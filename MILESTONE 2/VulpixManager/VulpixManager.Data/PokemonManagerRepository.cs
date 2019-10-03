@@ -53,6 +53,7 @@ namespace PokemonManager.Data
                 }
             }
             return pokemon;
+            
         }
 
         public void Update(int id, Pokemon pokemon)
@@ -60,9 +61,9 @@ namespace PokemonManager.Data
 
         }
 
-        public void Delete()
+        public void Delete(int id)
         {
-            
+               
         }
     }
 }
