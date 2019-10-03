@@ -55,7 +55,7 @@ namespace PokemonManager.Data
             return pokemon;
         }
 
-        public void Update(int id)
+        public void Update(int id, Pokemon pokemon)
         {
 
         }

@@ -88,10 +88,12 @@ namespace PokemonManager.Controller
             }
         }
 
-        public int SearchPokemon() // case 3 executes this
+        public void SearchPokemon() // case 3 executes this
         {
+
+            Pokemon pokemon = view.SearchPokemon();
+            repo.ReadByID(pokemon.Id);
             
-            repo.ReadByID()
             
         }
 

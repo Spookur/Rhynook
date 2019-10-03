@@ -180,6 +180,30 @@ namespace VulpixManager.View
         public int GetSearchId()
         {
             int _id = 0;
+            bool validInput = false;
+
+            while (!validInput)
+            {
+                Console.WriteLine("Please enter the ID of an existing Pokemon.");
+                validInput = int.TryParse(Console.ReadLine(), out _id);
+                Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Displaying " + _id);
+                    Console.ReadLine();
+                    validInput = true;
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+
+
+            }
       
 
             return _id;
