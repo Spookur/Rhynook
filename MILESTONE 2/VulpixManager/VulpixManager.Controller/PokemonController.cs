@@ -93,20 +93,28 @@ namespace PokemonManager.Controller
 
             Pokemon pokemon = view.SearchPokemon();
             repo.ReadByID(pokemon.Id);
+            
+            view.DisplayPokemon(pokemon);
            
-            pokemon.Print();
+            
             
         }
 
         private void EditPokemon() // case 4 executes this
         {
-            Console.WriteLine("Edit me.");
+
+            Pokemon pokemon = view.EditPokemonInfo();
+
+
+            Console.Clear();
         }
 
         private void RemovePokemon() // case 5 executes this
         {
+            Console.Clear();
             Pokemon pokemon = view.ConfirmRemovePokemon();
             repo.Delete(pokemon.Id);
+            
         }
 
     }

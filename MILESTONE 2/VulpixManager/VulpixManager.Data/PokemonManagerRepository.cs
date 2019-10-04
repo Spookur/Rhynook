@@ -50,6 +50,7 @@ namespace PokemonManager.Data
                 {
                     pokemon = data[i]; 
                     
+                    
                 }
             }
             return pokemon;
@@ -61,9 +62,24 @@ namespace PokemonManager.Data
 
         }
 
-        public void Delete(int id)
+        public Pokemon Delete(int id)
         {
-               
+            Pokemon pokemon = new Pokemon();
+
+            for (int i = 0; i < data.Count; i++) // loop through list of objects (data<Pokemon>)
+            {
+                if (data[i].Id == id)
+                {
+                    pokemon = data[i];
+                    data.Remove(pokemon);
+
+                }
+            }
+            return pokemon;
+
+            
+
         }
+    
     }
 }

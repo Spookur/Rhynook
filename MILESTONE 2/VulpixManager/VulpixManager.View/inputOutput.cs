@@ -92,7 +92,7 @@ namespace VulpixManager.View
                 if (correct == "y")
                 {
                     Console.WriteLine("Okay, now what about the ID? ");
-                    Console.ReadLine();
+                    
                     validInput = true;
 
                 }
@@ -147,7 +147,7 @@ namespace VulpixManager.View
 
         }
 
-        public int GetValidID()
+        public int GetValidID() // prompt from RemovePokemon()
         {
             int _id = 0;
             bool validInput = false;
@@ -156,12 +156,12 @@ namespace VulpixManager.View
             {
                 Console.WriteLine("Please enter the ID of the Pokemon you want to remove.");
                 _id = int.Parse(Console.ReadLine());
-                Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
+                Console.WriteLine("Are you sure you want to remove the Pokemon stored under the ID number: " + _id + " (Type y/n)");
 
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
-                    Console.WriteLine("ID number" + _id + " will be removed.");
+                    Console.WriteLine("ID number " + _id + " will be removed.");
                     Console.ReadLine();
                     validInput = true;
                 }
@@ -177,7 +177,7 @@ namespace VulpixManager.View
             return _id;
         }
 
-        public int GetSearchId()
+        public int GetSearchId() // prompt from SearchPokemon()
         {
             int _id = 0;
             bool validInput = false;
@@ -190,8 +190,8 @@ namespace VulpixManager.View
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
-                    Console.WriteLine("Displaying " + _id);
-                    Console.ReadLine();
+                    Console.WriteLine("Displaying " + _id + "...");
+                    
                     validInput = true;
                 }
 
