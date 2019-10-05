@@ -91,9 +91,9 @@ namespace PokemonManager.Controller
         public void SearchPokemon() // case 3 executes this
         {
 
-            Pokemon pokemon = view.SearchPokemon();
-            repo.ReadByID(pokemon.Id);
-            
+            int searchId = view.SearchPokemon();
+            Pokemon pokemon = repo.ReadByID(searchId);
+
             view.DisplayPokemon(pokemon);
            
             

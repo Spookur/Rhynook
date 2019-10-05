@@ -39,11 +39,13 @@ namespace PokemonManager.View
 
         }
 
-        public Pokemon SearchPokemon() // STEP 3
+        public int SearchPokemon() // STEP 3
         {
+            
             Pokemon pokemon = new Pokemon();
-            pokemon.Id = io.GetSearchId();
-            return pokemon;
+            
+            
+            return io.GetSearchId();
         }
 
         public Pokemon EditPokemonInfo()
