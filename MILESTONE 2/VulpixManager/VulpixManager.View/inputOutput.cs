@@ -15,7 +15,7 @@ namespace VulpixManager.View
 
             while (!validInput)
             {
-
+                
                 Console.WriteLine("Please enter a name.");
                 _name = Console.ReadLine();
                 Console.WriteLine("You have chosen " + _name + ". Is that correct? (Type y/n)");
@@ -123,7 +123,7 @@ namespace VulpixManager.View
                 Console.WriteLine("Please enter an ID.");
                 validInput = int.TryParse(Console.ReadLine(), out _id);
                 Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
-
+                
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
@@ -205,6 +205,37 @@ namespace VulpixManager.View
 
             }
       
+
+            return _id;
+        }
+
+        public int GetIDForUpdate() // prompt for updating
+        {
+            int _id = 0;
+            bool validInput = false;
+
+            while (!validInput)
+            {
+                
+                Console.WriteLine("Please enter the ID of the Pokemon you want to edit.");
+                _id = int.Parse(Console.ReadLine());
+                Console.WriteLine("You have chosen to edit the Pokemon under the ID number: "+ _id + ". (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Okay, time to edit Pokemon number " +_id + ".");
+                    Console.ReadLine();
+                    validInput = true;
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+            }
 
             return _id;
         }

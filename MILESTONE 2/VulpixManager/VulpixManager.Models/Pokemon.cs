@@ -26,7 +26,7 @@ namespace PokemonManager.Models
             Console.WriteLine("Name: " + Name);
             Console.WriteLine("Type: " + PokeType);
             Console.WriteLine("Description: " + Description);
-            
+            Console.WriteLine("");
         }
 
         

@@ -67,7 +67,7 @@ namespace PokemonManager.Controller
         }
         private void CreatePokemon() // case 1 executes this
         {
-            Console.WriteLine("You have chosen to create a new pokemon. What will the Pokemon's name be?");
+            
 
             Pokemon pokemon = view.CreatePokemon(); // called method in view to get new pokemon info ---> PokemonView.cs
             repo.Create(pokemon); // passed the pokemon to the repository
@@ -102,8 +102,13 @@ namespace PokemonManager.Controller
 
         private void EditPokemon() // case 4 executes this
         {
-
             Pokemon pokemon = view.EditPokemonInfo();
+            repo.Delete(pokemon.Id);
+
+
+            CreatePokemon();
+            
+            
 
 
             Console.Clear();

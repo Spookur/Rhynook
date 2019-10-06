@@ -13,6 +13,7 @@ namespace PokemonManager.View
     public class PokemonView
     {
         int result;
+        PokemonManagerRepository repo = new PokemonManagerRepository();
         private inputOutput io = new inputOutput();
 
 
@@ -53,11 +54,9 @@ namespace PokemonManager.View
             
             Console.WriteLine("You are about to edit an existing Pokemon.");
             Pokemon pokemon = new Pokemon();
-            pokemon.Name = io.GetName();
-            pokemon.PokeType = io.GetType();
-            pokemon.Description = io.GetDescription();
-            pokemon.Id = io.GetInteger();
 
+            pokemon.Id = io.GetIDForUpdate();
+ 
             return pokemon;
         }
 
