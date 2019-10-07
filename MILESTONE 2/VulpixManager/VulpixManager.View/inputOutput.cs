@@ -15,7 +15,7 @@ namespace VulpixManager.View
 
             while (!validInput)
             {
-
+                
                 Console.WriteLine("Please enter a name.");
                 _name = Console.ReadLine();
                 Console.WriteLine("You have chosen " + _name + ". Is that correct? (Type y/n)");
@@ -92,7 +92,7 @@ namespace VulpixManager.View
                 if (correct == "y")
                 {
                     Console.WriteLine("Okay, now what about the ID? ");
-                    Console.ReadLine();
+                    
                     validInput = true;
 
                 }
@@ -123,7 +123,7 @@ namespace VulpixManager.View
                 Console.WriteLine("Please enter an ID.");
                 validInput = int.TryParse(Console.ReadLine(), out _id);
                 Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
-
+                
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
@@ -147,7 +147,7 @@ namespace VulpixManager.View
 
         }
 
-        public int GetValidID()
+        public int GetValidID() // prompt from RemovePokemon()
         {
             int _id = 0;
             bool validInput = false;
@@ -156,12 +156,12 @@ namespace VulpixManager.View
             {
                 Console.WriteLine("Please enter the ID of the Pokemon you want to remove.");
                 _id = int.Parse(Console.ReadLine());
-                Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
+                Console.WriteLine("Are you sure you want to remove the Pokemon stored under the ID number: " + _id + " (Type y/n)");
 
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
-                    Console.WriteLine("ID number" + _id + "will be removed.");
+                    Console.WriteLine("ID number " + _id + " will be removed.");
                     Console.ReadLine();
                     validInput = true;
                 }
@@ -177,10 +177,65 @@ namespace VulpixManager.View
             return _id;
         }
 
-        public int GetSearchId()
+        public int GetSearchId() // prompt from SearchPokemon()
         {
             int _id = 0;
+            bool validInput = false;
+
+            while (!validInput)
+            {
+                Console.WriteLine("Please enter the ID of an existing Pokemon.");
+                validInput = int.TryParse(Console.ReadLine(), out _id);
+                Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Displaying " + _id + "...");
+                    
+                    validInput = true;
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+
+
+            }
       
+
+            return _id;
+        }
+
+        public int GetIDForUpdate() // prompt for updating
+        {
+            int _id = 0;
+            bool validInput = false;
+
+            while (!validInput)
+            {
+                
+                Console.WriteLine("Please enter the ID of the Pokemon you want to edit.");
+                _id = int.Parse(Console.ReadLine());
+                Console.WriteLine("You have chosen to edit the Pokemon under the ID number: "+ _id + ". (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Okay, time to edit Pokemon number " +_id + ".");
+                    Console.ReadLine();
+                    validInput = true;
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+            }
 
             return _id;
         }

@@ -67,7 +67,7 @@ namespace PokemonManager.Controller
         }
         private void CreatePokemon() // case 1 executes this
         {
-            Console.WriteLine("You have chosen to create a new pokemon. What will the Pokemon's name be?");
+            
 
             Pokemon pokemon = view.CreatePokemon(); // called method in view to get new pokemon info ---> PokemonView.cs
             repo.Create(pokemon); // passed the pokemon to the repository
@@ -88,24 +88,38 @@ namespace PokemonManager.Controller
             }
         }
 
-        public int SearchPokemon() // case 3 executes this
+        public void SearchPokemon() // case 3 executes this
         {
+
+            int searchId = view.SearchPokemon();
+            Pokemon pokemon = repo.ReadByID(searchId);
+
+            view.DisplayPokemon(pokemon);
+           
             
-            repo.ReadByID()
             
         }
 
         private void EditPokemon() // case 4 executes this
         {
-            Console.WriteLine("Edit me.");
+            Pokemon pokemon = view.EditPokemonInfo();
+            repo.Delete(pokemon.Id);
+
+
+            CreatePokemon();
+            
+            
+
+
+            Console.Clear();
         }
 
         private void RemovePokemon() // case 5 executes this
         {
-            Console.WriteLine("You have chosen to remove a Pokemon. Which Pokemon do you want to remove?");
-
+            Console.Clear();
             Pokemon pokemon = view.ConfirmRemovePokemon();
-            repo.Delete();
+            repo.Delete(pokemon.Id);
+            
         }
 
     }
