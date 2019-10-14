@@ -190,7 +190,9 @@ namespace VulpixManager.View
                 string correct = Console.ReadLine().ToLower();
                 if (correct == "y")
                 {
-                    Console.WriteLine("Displaying " + _id + "...");
+                    Console.Clear();
+                    Console.WriteLine("Attempting to display: " + _id + "...");
+                    Console.WriteLine("");
                     
                     validInput = true;
                 }

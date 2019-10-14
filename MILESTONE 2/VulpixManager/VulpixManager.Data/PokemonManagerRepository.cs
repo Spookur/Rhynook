@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using PokemonManager.Data;
 
+
 namespace PokemonManager.Data
 {
     public class PokemonManagerRepository
@@ -13,19 +14,19 @@ namespace PokemonManager.Data
 
         public List<Pokemon> data;
 
+
         public PokemonManagerRepository()
         {
-            if (data == null)
-            {
-                data = new List<Pokemon>();
-            }
+
+            data = new List<Pokemon>();
+
         }
         public Pokemon Create(Pokemon input)
         {
             data.Add(input); // adds the new Pokemon to the list.
-            
+
             return input;
-            
+
 
         }
 
@@ -36,25 +37,27 @@ namespace PokemonManager.Data
 
         public Pokemon ReadByID(int id) // STEP 3
         {
-            
+
             // create a new pokemon object and assign that to a return
 
             Pokemon pokemon = new Pokemon();
 
 
-            
+
 
             for (int i = 0; i < data.Count; i++) // loop through list of objects (data<Pokemon>)
             {
                 if (data[i].Id == id)
                 {
-                    pokemon = data[i]; 
+                    pokemon = data[i];
                     
-                    
+
+
                 }
+
             }
             return pokemon;
-            
+
         }
 
         public void Update(int id, Pokemon pokemon)
@@ -77,9 +80,10 @@ namespace PokemonManager.Data
             }
             return pokemon;
 
-            
+
+
 
         }
-    
+
     }
 }
