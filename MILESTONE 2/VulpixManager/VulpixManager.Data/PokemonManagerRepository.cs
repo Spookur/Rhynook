@@ -32,6 +32,8 @@ namespace PokemonManager.Data
 
         public List<Pokemon> ReadAll()
         {
+            
+            
             return data;
         }
 

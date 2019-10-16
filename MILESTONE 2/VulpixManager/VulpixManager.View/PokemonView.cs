@@ -12,7 +12,6 @@ namespace PokemonManager.View
 {
     public class PokemonView
     {
-        int result;
         PokemonManagerRepository repo = new PokemonManagerRepository();
         private inputOutput io = new inputOutput();
 
@@ -56,15 +55,6 @@ namespace PokemonManager.View
             pokemon.Id = io.GetIDForUpdate();
 
 
-            int id = pokemon.Id;
-            for (int i = 0; i < repo.data.Count; i++) // loop through list of objects (data<Pokemon>)
-            {
-                if (repo.data[i].Id != id)
-                {
-                    Console.WriteLine("Wait, that Pokemon does not exist!");
-                }
-
-            }
             return pokemon;     
         }
 
