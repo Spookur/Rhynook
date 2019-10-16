@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\Basic Programming Concepts\DogGeneticsV2\bin\Debug\DogGeneticsV2.exe.config
+C:\Repos\Rhynook\Basic Programming Concepts\DogGeneticsV2\bin\Debug\DogGeneticsV2.exe
+C:\Repos\Rhynook\Basic Programming Concepts\DogGeneticsV2\bin\Debug\DogGeneticsV2.pdb
+C:\Repos\Rhynook\Basic Programming Concepts\DogGeneticsV2\obj\Debug\DogGeneticsV2.csprojAssemblyReference.cache
+C:\Repos\Rhynook\Basic Programming Concepts\DogGeneticsV2\obj\Debug\DogGeneticsV2.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\Basic Programming Concepts\DogGeneticsV2\obj\Debug\DogGeneticsV2.exe
+C:\Repos\Rhynook\Basic Programming Concepts\DogGeneticsV2\obj\Debug\DogGeneticsV2.pdb

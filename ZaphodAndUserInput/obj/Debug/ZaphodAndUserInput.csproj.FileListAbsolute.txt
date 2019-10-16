@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\ZaphodAndUserInput\bin\Debug\ZaphodAndUserInput.exe.config
+C:\Repos\Rhynook\ZaphodAndUserInput\bin\Debug\ZaphodAndUserInput.exe
+C:\Repos\Rhynook\ZaphodAndUserInput\bin\Debug\ZaphodAndUserInput.pdb
+C:\Repos\Rhynook\ZaphodAndUserInput\obj\Debug\ZaphodAndUserInput.csprojAssemblyReference.cache
+C:\Repos\Rhynook\ZaphodAndUserInput\obj\Debug\ZaphodAndUserInput.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\ZaphodAndUserInput\obj\Debug\ZaphodAndUserInput.exe
+C:\Repos\Rhynook\ZaphodAndUserInput\obj\Debug\ZaphodAndUserInput.pdb

@@ -1,0 +1,11 @@
+C:\Users\Coby\source\repos\SpaceRustlers\bin\Debug\netcoreapp2.1\SpaceRustlers.deps.json
+C:\Users\Coby\source\repos\SpaceRustlers\bin\Debug\netcoreapp2.1\SpaceRustlers.runtimeconfig.json
+C:\Users\Coby\source\repos\SpaceRustlers\bin\Debug\netcoreapp2.1\SpaceRustlers.runtimeconfig.dev.json
+C:\Users\Coby\source\repos\SpaceRustlers\bin\Debug\netcoreapp2.1\SpaceRustlers.dll
+C:\Users\Coby\source\repos\SpaceRustlers\bin\Debug\netcoreapp2.1\SpaceRustlers.pdb
+C:\Users\Coby\source\repos\SpaceRustlers\obj\Debug\netcoreapp2.1\SpaceRustlers.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\SpaceRustlers\obj\Debug\netcoreapp2.1\SpaceRustlers.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\SpaceRustlers\obj\Debug\netcoreapp2.1\SpaceRustlers.AssemblyInfoInputs.cache
+C:\Users\Coby\source\repos\SpaceRustlers\obj\Debug\netcoreapp2.1\SpaceRustlers.AssemblyInfo.cs
+C:\Users\Coby\source\repos\SpaceRustlers\obj\Debug\netcoreapp2.1\SpaceRustlers.dll
+C:\Users\Coby\source\repos\SpaceRustlers\obj\Debug\netcoreapp2.1\SpaceRustlers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Coby\source\repos\GuessMe.sln\bin\Debug\netcoreapp2.1\GuessMe.sln.deps.json
+C:\Users\Coby\source\repos\GuessMe.sln\bin\Debug\netcoreapp2.1\GuessMe.sln.runtimeconfig.json
+C:\Users\Coby\source\repos\GuessMe.sln\bin\Debug\netcoreapp2.1\GuessMe.sln.runtimeconfig.dev.json
+C:\Users\Coby\source\repos\GuessMe.sln\bin\Debug\netcoreapp2.1\GuessMe.sln.dll
+C:\Users\Coby\source\repos\GuessMe.sln\bin\Debug\netcoreapp2.1\GuessMe.sln.pdb
+C:\Users\Coby\source\repos\GuessMe.sln\obj\Debug\netcoreapp2.1\GuessMe.sln.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\GuessMe.sln\obj\Debug\netcoreapp2.1\GuessMe.sln.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\GuessMe.sln\obj\Debug\netcoreapp2.1\GuessMe.sln.AssemblyInfoInputs.cache
+C:\Users\Coby\source\repos\GuessMe.sln\obj\Debug\netcoreapp2.1\GuessMe.sln.AssemblyInfo.cs
+C:\Users\Coby\source\repos\GuessMe.sln\obj\Debug\netcoreapp2.1\GuessMe.sln.dll
+C:\Users\Coby\source\repos\GuessMe.sln\obj\Debug\netcoreapp2.1\GuessMe.sln.pdb

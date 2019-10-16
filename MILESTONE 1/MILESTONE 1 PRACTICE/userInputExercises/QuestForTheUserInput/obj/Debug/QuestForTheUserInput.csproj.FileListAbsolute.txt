@@ -1,0 +1,7 @@
+C:\Users\Coby\source\repos\QuestForTheUserInput\bin\Debug\QuestForTheUserInput.exe.config
+C:\Users\Coby\source\repos\QuestForTheUserInput\bin\Debug\QuestForTheUserInput.exe
+C:\Users\Coby\source\repos\QuestForTheUserInput\bin\Debug\QuestForTheUserInput.pdb
+C:\Users\Coby\source\repos\QuestForTheUserInput\obj\Debug\QuestForTheUserInput.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\QuestForTheUserInput\obj\Debug\QuestForTheUserInput.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\QuestForTheUserInput\obj\Debug\QuestForTheUserInput.exe
+C:\Users\Coby\source\repos\QuestForTheUserInput\obj\Debug\QuestForTheUserInput.pdb

@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\Basic Programming Concepts\HealthyHearts\bin\Debug\HealthyHearts.exe.config
+C:\Repos\Rhynook\Basic Programming Concepts\HealthyHearts\bin\Debug\HealthyHearts.exe
+C:\Repos\Rhynook\Basic Programming Concepts\HealthyHearts\bin\Debug\HealthyHearts.pdb
+C:\Repos\Rhynook\Basic Programming Concepts\HealthyHearts\obj\Debug\HealthyHearts.csprojAssemblyReference.cache
+C:\Repos\Rhynook\Basic Programming Concepts\HealthyHearts\obj\Debug\HealthyHearts.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\Basic Programming Concepts\HealthyHearts\obj\Debug\HealthyHearts.exe
+C:\Repos\Rhynook\Basic Programming Concepts\HealthyHearts\obj\Debug\HealthyHearts.pdb

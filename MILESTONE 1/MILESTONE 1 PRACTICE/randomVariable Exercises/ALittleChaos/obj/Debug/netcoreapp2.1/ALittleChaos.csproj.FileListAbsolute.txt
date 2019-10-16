@@ -1,0 +1,11 @@
+C:\Users\Coby\source\repos\ALittleChaos\bin\Debug\netcoreapp2.1\ALittleChaos.deps.json
+C:\Users\Coby\source\repos\ALittleChaos\bin\Debug\netcoreapp2.1\ALittleChaos.runtimeconfig.json
+C:\Users\Coby\source\repos\ALittleChaos\bin\Debug\netcoreapp2.1\ALittleChaos.runtimeconfig.dev.json
+C:\Users\Coby\source\repos\ALittleChaos\bin\Debug\netcoreapp2.1\ALittleChaos.dll
+C:\Users\Coby\source\repos\ALittleChaos\bin\Debug\netcoreapp2.1\ALittleChaos.pdb
+C:\Users\Coby\source\repos\ALittleChaos\obj\Debug\netcoreapp2.1\ALittleChaos.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\ALittleChaos\obj\Debug\netcoreapp2.1\ALittleChaos.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\ALittleChaos\obj\Debug\netcoreapp2.1\ALittleChaos.AssemblyInfoInputs.cache
+C:\Users\Coby\source\repos\ALittleChaos\obj\Debug\netcoreapp2.1\ALittleChaos.AssemblyInfo.cs
+C:\Users\Coby\source\repos\ALittleChaos\obj\Debug\netcoreapp2.1\ALittleChaos.dll
+C:\Users\Coby\source\repos\ALittleChaos\obj\Debug\netcoreapp2.1\ALittleChaos.pdb

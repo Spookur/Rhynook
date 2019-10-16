@@ -1,0 +1,7 @@
+C:\Users\Coby\source\repos\ForTImes2\bin\Debug\ForTImes2.exe.config
+C:\Users\Coby\source\repos\ForTImes2\bin\Debug\ForTImes2.exe
+C:\Users\Coby\source\repos\ForTImes2\bin\Debug\ForTImes2.pdb
+C:\Users\Coby\source\repos\ForTImes2\obj\Debug\ForTImes2.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\ForTImes2\obj\Debug\ForTImes2.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\ForTImes2\obj\Debug\ForTImes2.exe
+C:\Users\Coby\source\repos\ForTImes2\obj\Debug\ForTImes2.pdb

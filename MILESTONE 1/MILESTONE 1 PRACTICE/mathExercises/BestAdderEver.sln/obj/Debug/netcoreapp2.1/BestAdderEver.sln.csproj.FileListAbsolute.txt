@@ -1,0 +1,11 @@
+C:\Users\Coby\source\repos\BestAdderEver.sln\obj\Debug\netcoreapp2.1\BestAdderEver.sln.csprojAssemblyReference.cache
+C:\Users\Coby\source\repos\BestAdderEver.sln\obj\Debug\netcoreapp2.1\BestAdderEver.sln.csproj.CoreCompileInputs.cache
+C:\Users\Coby\source\repos\BestAdderEver.sln\obj\Debug\netcoreapp2.1\BestAdderEver.sln.AssemblyInfoInputs.cache
+C:\Users\Coby\source\repos\BestAdderEver.sln\obj\Debug\netcoreapp2.1\BestAdderEver.sln.AssemblyInfo.cs
+C:\Users\Coby\source\repos\BestAdderEver.sln\bin\Debug\netcoreapp2.1\BestAdderEver.sln.deps.json
+C:\Users\Coby\source\repos\BestAdderEver.sln\bin\Debug\netcoreapp2.1\BestAdderEver.sln.runtimeconfig.json
+C:\Users\Coby\source\repos\BestAdderEver.sln\bin\Debug\netcoreapp2.1\BestAdderEver.sln.runtimeconfig.dev.json
+C:\Users\Coby\source\repos\BestAdderEver.sln\bin\Debug\netcoreapp2.1\BestAdderEver.sln.dll
+C:\Users\Coby\source\repos\BestAdderEver.sln\bin\Debug\netcoreapp2.1\BestAdderEver.sln.pdb
+C:\Users\Coby\source\repos\BestAdderEver.sln\obj\Debug\netcoreapp2.1\BestAdderEver.sln.dll
+C:\Users\Coby\source\repos\BestAdderEver.sln\obj\Debug\netcoreapp2.1\BestAdderEver.sln.pdb
