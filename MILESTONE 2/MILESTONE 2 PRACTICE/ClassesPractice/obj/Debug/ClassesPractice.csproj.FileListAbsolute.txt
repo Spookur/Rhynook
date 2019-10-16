@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\ClassesPractice\bin\Debug\ClassesPractice.exe.config
+C:\Repos\Rhynook\ClassesPractice\bin\Debug\ClassesPractice.exe
+C:\Repos\Rhynook\ClassesPractice\bin\Debug\ClassesPractice.pdb
+C:\Repos\Rhynook\ClassesPractice\obj\Debug\ClassesPractice.csprojAssemblyReference.cache
+C:\Repos\Rhynook\ClassesPractice\obj\Debug\ClassesPractice.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\ClassesPractice\obj\Debug\ClassesPractice.exe
+C:\Repos\Rhynook\ClassesPractice\obj\Debug\ClassesPractice.pdb

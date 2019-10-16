@@ -1,0 +1,6 @@
+C:\Repos\Rhynook\betterTestedFactorizor\Factorizor.BLL\bin\Debug\Factorizor.BLL.dll
+C:\Repos\Rhynook\betterTestedFactorizor\Factorizor.BLL\bin\Debug\Factorizor.BLL.pdb
+C:\Repos\Rhynook\betterTestedFactorizor\Factorizor.BLL\obj\Debug\Factorizor.BLL.csprojAssemblyReference.cache
+C:\Repos\Rhynook\betterTestedFactorizor\Factorizor.BLL\obj\Debug\Factorizor.BLL.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\betterTestedFactorizor\Factorizor.BLL\obj\Debug\Factorizor.BLL.dll
+C:\Repos\Rhynook\betterTestedFactorizor\Factorizor.BLL\obj\Debug\Factorizor.BLL.pdb

@@ -1,0 +1,10 @@
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.UI.exe.config
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.UI.exe
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.UI.pdb
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.BLL.dll
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\bin\Debug\SG.ConsoleUtilities.BLL.pdb
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.csprojAssemblyReference.cache
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.csproj.CopyComplete
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.exe
+C:\Repos\Rhynook\milestone2Lesson3\SG.ConsoleUtilities.UI\obj\Debug\SG.ConsoleUtilities.UI.pdb

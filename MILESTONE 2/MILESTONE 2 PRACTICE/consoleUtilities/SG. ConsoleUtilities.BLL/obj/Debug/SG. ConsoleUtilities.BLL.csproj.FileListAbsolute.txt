@@ -1,0 +1,6 @@
+C:\Repos\Rhynook\milestone2Lesson3\SG. ConsoleUtilities.BLL\bin\Debug\SG.ConsoleUtilities.BLL.dll
+C:\Repos\Rhynook\milestone2Lesson3\SG. ConsoleUtilities.BLL\bin\Debug\SG.ConsoleUtilities.BLL.pdb
+C:\Repos\Rhynook\milestone2Lesson3\SG. ConsoleUtilities.BLL\obj\Debug\SG. ConsoleUtilities.BLL.csprojAssemblyReference.cache
+C:\Repos\Rhynook\milestone2Lesson3\SG. ConsoleUtilities.BLL\obj\Debug\SG. ConsoleUtilities.BLL.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\milestone2Lesson3\SG. ConsoleUtilities.BLL\obj\Debug\SG.ConsoleUtilities.BLL.dll
+C:\Repos\Rhynook\milestone2Lesson3\SG. ConsoleUtilities.BLL\obj\Debug\SG.ConsoleUtilities.BLL.pdb

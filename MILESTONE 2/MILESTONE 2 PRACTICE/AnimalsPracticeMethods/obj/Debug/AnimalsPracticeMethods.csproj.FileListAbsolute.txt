@@ -1,0 +1,14 @@
+C:\Repos\Rhynook\AnimalsPracticeMethods\bin\Debug\AnimalsPracticeMethods.exe.config
+C:\Repos\Rhynook\AnimalsPracticeMethods\bin\Debug\AnimalsPracticeMethods.exe
+C:\Repos\Rhynook\AnimalsPracticeMethods\bin\Debug\AnimalsPracticeMethods.pdb
+C:\Repos\Rhynook\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.csprojAssemblyReference.cache
+C:\Repos\Rhynook\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.exe
+C:\Repos\Rhynook\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.pdb
+C:\Repos\Rhynook\MILESTONE 2\MILESTONE 2 PRACTICE\AnimalsPracticeMethods\bin\Debug\AnimalsPracticeMethods.exe.config
+C:\Repos\Rhynook\MILESTONE 2\MILESTONE 2 PRACTICE\AnimalsPracticeMethods\bin\Debug\AnimalsPracticeMethods.exe
+C:\Repos\Rhynook\MILESTONE 2\MILESTONE 2 PRACTICE\AnimalsPracticeMethods\bin\Debug\AnimalsPracticeMethods.pdb
+C:\Repos\Rhynook\MILESTONE 2\MILESTONE 2 PRACTICE\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.csprojAssemblyReference.cache
+C:\Repos\Rhynook\MILESTONE 2\MILESTONE 2 PRACTICE\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\MILESTONE 2\MILESTONE 2 PRACTICE\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.exe
+C:\Repos\Rhynook\MILESTONE 2\MILESTONE 2 PRACTICE\AnimalsPracticeMethods\obj\Debug\AnimalsPracticeMethods.pdb
