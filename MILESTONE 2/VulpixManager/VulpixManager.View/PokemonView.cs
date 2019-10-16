@@ -47,25 +47,25 @@ namespace PokemonManager.View
             return io.GetSearchId();
         }
 
-        public Pokemon EditPokemonInfo()
+        public int EditPokemonInfo()
         {
 
             Console.WriteLine("You are about to edit an existing Pokemon.");
             Pokemon pokemon = new Pokemon();
 
-            pokemon.Id = io.GetIDForUpdate();
+            return io.GetIDForUpdate();     
+        }
 
+        public Pokemon NewPokemonInfo()
+        {
+            Pokemon pokemon = new Pokemon();
 
-            int id = pokemon.Id;
-            for (int i = 0; i < repo.data.Count; i++) // loop through list of objects (data<Pokemon>)
-            {
-                if (repo.data[i].Id != id)
-                {
-                    Console.WriteLine("Wait, that Pokemon does not exist!");
-                }
+            pokemon.Name = io.GetNewName();
+            pokemon.PokeType = io.GetNewType();
+            pokemon.Description = io.GetNewDescription();
+            pokemon.Id = io.GetNewInteger();
 
-            }
-            return pokemon;     
+            return pokemon;
         }
 
         public Pokemon ConfirmRemovePokemon()

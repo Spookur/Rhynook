@@ -60,9 +60,17 @@ namespace PokemonManager.Data
 
         }
 
-        public void Update(int id, Pokemon pokemon)
+        public Pokemon Update(int id, string newName, string newType, string newDescription, int newId)
         {
+            Pokemon pokemon = new Pokemon();
 
+            id--;
+            data[id].Name = newName;
+            data[id].PokeType = newType;
+            data[id].Description = newDescription;
+            data[id].Id = newId;
+
+            return pokemon;
         }
 
         public Pokemon Delete(int id)

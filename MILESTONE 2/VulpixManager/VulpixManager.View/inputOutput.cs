@@ -241,6 +241,147 @@ namespace VulpixManager.View
 
             return _id;
         }
+
+        public string GetNewName()
+        {
+            string _name = "";
+            bool validInput = false;
+
+            while (!validInput)
+            {
+
+                Console.WriteLine("Please enter a new name.");
+                _name = Console.ReadLine();
+                Console.WriteLine("You have chosen " + _name + ". Is that correct? (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Okay, now what about the Type? ");
+
+                    validInput = true;
+
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+
+            }
+
+            return _name;
+        }
+
+        public string GetNewType()
+        {
+            string _pokeType = "";
+            bool validInput = false;
+
+            while (!validInput)
+            {
+
+                Console.WriteLine("Please enter a type.");
+                _pokeType = Console.ReadLine();
+                Console.WriteLine("You have chosen " + _pokeType + ". Is that correct? (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Okay, now what about the description? ");
+
+                    validInput = true;
+
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+
+            }
+
+            return _pokeType;
+
+        }
+
+
+        public string GetNewDescription()
+        {
+            string _description = "";
+            bool validInput = false;
+
+            while (!validInput)
+            {
+
+                Console.WriteLine("Please enter a description.");
+                _description = Console.ReadLine();
+                Console.WriteLine("You have chosen " + _description + ". Is that correct? (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Okay, now what about the ID? ");
+
+                    validInput = true;
+
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                }
+
+            }
+
+            return _description;
+
+        }
+
+        public int GetNewInteger()
+        {
+            int _id = 0;
+            bool validInput = false;
+
+
+            while (!validInput)
+            {
+
+
+                Console.WriteLine("Please enter an ID.");
+                validInput = int.TryParse(Console.ReadLine(), out _id);
+                Console.WriteLine("You have chosen " + _id + ". Is that correct? (Type y/n)");
+
+                string correct = Console.ReadLine().ToLower();
+                if (correct == "y")
+                {
+                    Console.WriteLine("Okay, great. It will be stored!");
+                    Console.ReadLine();
+                    validInput = true;
+
+                }
+
+                else
+                {
+                    Console.WriteLine("Invalid input.");
+                    Console.ReadLine();
+                    Console.Clear();
+                    validInput = false;
+                }
+
+            }
+
+            return _id;
+
+        }
+
+
     }
 
     
