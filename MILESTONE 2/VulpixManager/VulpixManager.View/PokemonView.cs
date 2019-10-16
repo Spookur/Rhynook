@@ -58,17 +58,13 @@ namespace PokemonManager.View
         public Pokemon NewPokemonInfo()
         {
             Pokemon pokemon = new Pokemon();
-
-<<<<<<< HEAD
-            return pokemon;     
-=======
             pokemon.Name = io.GetNewName();
             pokemon.PokeType = io.GetNewType();
             pokemon.Description = io.GetNewDescription();
             pokemon.Id = io.GetNewInteger();
 
             return pokemon;
->>>>>>> 4ba0b673178d81a655f310af50aa806df3a5d995
+
         }
 
         public Pokemon ConfirmRemovePokemon()

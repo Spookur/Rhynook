@@ -26,8 +26,9 @@ namespace PokemonManager.Controller
             while (true)
             {
 
-                Console.WriteLine("Thanks for choosing Pokemon Manager.");
+                
                 Console.WriteLine("Please choose what to do with Pokemon. Press the corresponding number and then press enter.");
+                Console.WriteLine("*******************************************************************************************");
                 Console.WriteLine("");
 
                 Console.WriteLine("1. Create Pokemon");
@@ -113,35 +114,40 @@ namespace PokemonManager.Controller
 
             int searchId = view.SearchPokemon();
             Pokemon pokemon = repo.ReadByID(searchId);
-            pokemon.Print();
+
+            if (pokemon.Id != searchId)
+            {
+                Console.WriteLine("That Pokemon does not exist!");
+                Console.WriteLine("");
+            }
+
+            else
+            {
+                pokemon.Print();
+            }
+            
         }
 
         private void EditPokemon() // case 4 executes this
         {
-<<<<<<< HEAD
-            Pokemon pokemon = view.EditPokemonInfo();
-
-
-
-            repo.Delete(pokemon.Id);
-            CreatePokemon();
-            Console.Clear();
-
-
-
-=======
             Console.Clear();
             int editId = view.EditPokemonInfo(); // returns user id 
             Pokemon pokemon = repo.ReadByID(editId); // id is equal to corresponding Pokemon from repo
-            pokemon.Print(); // displays the Pokemon
-            Pokemon newPokemon = view.NewPokemonInfo();
-            // try newPokemon = pokemon
-            repo.Update(pokemon.Id, newPokemon.Name, newPokemon.PokeType, newPokemon.Description, newPokemon.Id);
-            
-            
-            
-              
->>>>>>> 4ba0b673178d81a655f310af50aa806df3a5d995
+
+            if (pokemon.Id != editId || editId == 0)
+            {
+                Console.WriteLine("Could not find a Pokemon with that ID number.");
+                Console.WriteLine("");
+            }
+
+            else
+            {
+                pokemon.Print(); // displays the Pokemon
+
+                Pokemon newPokemon = view.NewPokemonInfo(); // gets the new Pokemon information
+
+                repo.Update(pokemon.Id, newPokemon.Name, newPokemon.PokeType, newPokemon.Description, newPokemon.Id);
+            }
         }
 
         private void RemovePokemon() // case 5 executes this

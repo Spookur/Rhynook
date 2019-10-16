@@ -43,7 +43,7 @@ namespace PokemonManager.Data
             // create a new pokemon object and assign that to a return
 
             Pokemon pokemon = new Pokemon();
-
+           
 
 
 
@@ -57,22 +57,25 @@ namespace PokemonManager.Data
 
                 }
 
+
             }
             return pokemon;
 
         }
 
-        public Pokemon Update(int id, string newName, string newType, string newDescription, int newId)
+        public void Update(int id, string newName, string newType, string newDescription, int newId)
         {
-            Pokemon pokemon = new Pokemon();
 
-            id--;
+
+            id = 0; // not sure how I came to this conclusion of setting id = 0?
             data[id].Name = newName;
             data[id].PokeType = newType;
             data[id].Description = newDescription;
             data[id].Id = newId;
+            
+            
 
-            return pokemon;
+
         }
 
         public Pokemon Delete(int id)
