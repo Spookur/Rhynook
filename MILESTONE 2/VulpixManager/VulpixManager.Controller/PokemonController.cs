@@ -118,6 +118,7 @@ namespace PokemonManager.Controller
 
         private void EditPokemon() // case 4 executes this
         {
+<<<<<<< HEAD
             Pokemon pokemon = view.EditPokemonInfo();
 
 
@@ -128,6 +129,19 @@ namespace PokemonManager.Controller
 
 
 
+=======
+            Console.Clear();
+            int editId = view.EditPokemonInfo(); // returns user id 
+            Pokemon pokemon = repo.ReadByID(editId); // id is equal to corresponding Pokemon from repo
+            pokemon.Print(); // displays the Pokemon
+            Pokemon newPokemon = view.NewPokemonInfo();
+            // try newPokemon = pokemon
+            repo.Update(pokemon.Id, newPokemon.Name, newPokemon.PokeType, newPokemon.Description, newPokemon.Id);
+            
+            
+            
+              
+>>>>>>> 4ba0b673178d81a655f310af50aa806df3a5d995
         }
 
         private void RemovePokemon() // case 5 executes this
