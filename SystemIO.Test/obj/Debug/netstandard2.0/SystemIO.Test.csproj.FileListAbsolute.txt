@@ -1,0 +1,13 @@
+C:\Repos\Rhynook\SystemIO.Test\bin\Debug\netstandard2.0\SystemIO.Test.deps.json
+C:\Repos\Rhynook\SystemIO.Test\bin\Debug\netstandard2.0\SystemIO.Test.dll
+C:\Repos\Rhynook\SystemIO.Test\obj\Debug\netstandard2.0\SystemIO.Test.csprojAssemblyReference.cache
+C:\Repos\Rhynook\SystemIO.Test\obj\Debug\netstandard2.0\SystemIO.Test.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\SystemIO.Test\obj\Debug\netstandard2.0\SystemIO.Test.AssemblyInfoInputs.cache
+C:\Repos\Rhynook\SystemIO.Test\obj\Debug\netstandard2.0\SystemIO.Test.AssemblyInfo.cs
+C:\Repos\Rhynook\SystemIO.Test\bin\Debug\netstandard2.0\SystemIO.Test.pdb
+C:\Repos\Rhynook\SystemIO.Test\bin\Debug\netstandard2.0\StudentManager.exe
+C:\Repos\Rhynook\SystemIO.Test\bin\Debug\netstandard2.0\StudentManager.pdb
+C:\Repos\Rhynook\SystemIO.Test\bin\Debug\netstandard2.0\StudentManager.exe.config
+C:\Repos\Rhynook\SystemIO.Test\obj\Debug\netstandard2.0\SystemIO.Test.csproj.CopyComplete
+C:\Repos\Rhynook\SystemIO.Test\obj\Debug\netstandard2.0\SystemIO.Test.dll
+C:\Repos\Rhynook\SystemIO.Test\obj\Debug\netstandard2.0\SystemIO.Test.pdb

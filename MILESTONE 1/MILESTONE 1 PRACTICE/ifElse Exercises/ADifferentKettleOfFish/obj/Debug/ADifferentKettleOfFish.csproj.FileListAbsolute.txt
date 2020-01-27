@@ -1,7 +1,0 @@
-C:\Users\Bob's PC\source\repos\ADifferentKettleOfFish\bin\Debug\ADifferentKettleOfFish.exe.config
-C:\Users\Bob's PC\source\repos\ADifferentKettleOfFish\bin\Debug\ADifferentKettleOfFish.exe
-C:\Users\Bob's PC\source\repos\ADifferentKettleOfFish\bin\Debug\ADifferentKettleOfFish.pdb
-C:\Users\Bob's PC\source\repos\ADifferentKettleOfFish\obj\Debug\ADifferentKettleOfFish.csprojAssemblyReference.cache
-C:\Users\Bob's PC\source\repos\ADifferentKettleOfFish\obj\Debug\ADifferentKettleOfFish.csproj.CoreCompileInputs.cache
-C:\Users\Bob's PC\source\repos\ADifferentKettleOfFish\obj\Debug\ADifferentKettleOfFish.exe
-C:\Users\Bob's PC\source\repos\ADifferentKettleOfFish\obj\Debug\ADifferentKettleOfFish.pdb

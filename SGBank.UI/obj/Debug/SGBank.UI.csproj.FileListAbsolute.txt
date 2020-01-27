@@ -1,0 +1,12 @@
+C:\Repos\Rhynook\SGBank.UI\bin\Debug\SGBank.UI.exe.config
+C:\Repos\Rhynook\SGBank.UI\bin\Debug\SGBank.UI.exe
+C:\Repos\Rhynook\SGBank.UI\bin\Debug\SGBank.UI.pdb
+C:\Repos\Rhynook\SGBank.UI\bin\Debug\SGBank.BLL.dll
+C:\Repos\Rhynook\SGBank.UI\bin\Debug\SGBank.Models.dll
+C:\Repos\Rhynook\SGBank.UI\bin\Debug\SGBank.BLL.pdb
+C:\Repos\Rhynook\SGBank.UI\bin\Debug\SGBank.Models.pdb
+C:\Repos\Rhynook\SGBank.UI\obj\Debug\SGBank.UI.csprojAssemblyReference.cache
+C:\Repos\Rhynook\SGBank.UI\obj\Debug\SGBank.UI.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\SGBank.UI\obj\Debug\SGBank.UI.csproj.CopyComplete
+C:\Repos\Rhynook\SGBank.UI\obj\Debug\SGBank.UI.exe
+C:\Repos\Rhynook\SGBank.UI\obj\Debug\SGBank.UI.pdb

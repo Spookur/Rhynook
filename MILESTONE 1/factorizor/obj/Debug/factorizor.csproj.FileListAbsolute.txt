@@ -1,7 +1,0 @@
-C:\Repos\Rhynook\factorizor\bin\Debug\factorizor.exe.config
-C:\Repos\Rhynook\factorizor\bin\Debug\factorizor.exe
-C:\Repos\Rhynook\factorizor\bin\Debug\factorizor.pdb
-C:\Repos\Rhynook\factorizor\obj\Debug\factorizor.csprojAssemblyReference.cache
-C:\Repos\Rhynook\factorizor\obj\Debug\factorizor.csproj.CoreCompileInputs.cache
-C:\Repos\Rhynook\factorizor\obj\Debug\factorizor.exe
-C:\Repos\Rhynook\factorizor\obj\Debug\factorizor.pdb

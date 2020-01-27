@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\LINQPractice\bin\Debug\LINQPractice.exe.config
+C:\Repos\Rhynook\LINQPractice\bin\Debug\LINQPractice.exe
+C:\Repos\Rhynook\LINQPractice\bin\Debug\LINQPractice.pdb
+C:\Repos\Rhynook\LINQPractice\obj\Debug\LINQPractice.csprojAssemblyReference.cache
+C:\Repos\Rhynook\LINQPractice\obj\Debug\LINQPractice.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\LINQPractice\obj\Debug\LINQPractice.exe
+C:\Repos\Rhynook\LINQPractice\obj\Debug\LINQPractice.pdb

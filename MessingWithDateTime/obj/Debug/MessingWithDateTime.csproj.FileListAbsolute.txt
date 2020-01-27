@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\MessingWithDateTime\bin\Debug\MessingWithDateTime.exe.config
+C:\Repos\Rhynook\MessingWithDateTime\bin\Debug\MessingWithDateTime.exe
+C:\Repos\Rhynook\MessingWithDateTime\bin\Debug\MessingWithDateTime.pdb
+C:\Repos\Rhynook\MessingWithDateTime\obj\Debug\MessingWithDateTime.csprojAssemblyReference.cache
+C:\Repos\Rhynook\MessingWithDateTime\obj\Debug\MessingWithDateTime.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\MessingWithDateTime\obj\Debug\MessingWithDateTime.exe
+C:\Repos\Rhynook\MessingWithDateTime\obj\Debug\MessingWithDateTime.pdb

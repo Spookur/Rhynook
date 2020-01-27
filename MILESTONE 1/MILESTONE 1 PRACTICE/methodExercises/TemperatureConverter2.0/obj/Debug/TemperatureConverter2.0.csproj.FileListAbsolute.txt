@@ -1,6 +1,0 @@
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter2.0\obj\Debug\TemperatureConverter2.0.csproj.CoreCompileInputs.cache
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter2.0\bin\Debug\TemperatureConverter2.0.exe.config
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter2.0\bin\Debug\TemperatureConverter2.0.exe
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter2.0\bin\Debug\TemperatureConverter2.0.pdb
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter2.0\obj\Debug\TemperatureConverter2.0.exe
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter2.0\obj\Debug\TemperatureConverter2.0.pdb

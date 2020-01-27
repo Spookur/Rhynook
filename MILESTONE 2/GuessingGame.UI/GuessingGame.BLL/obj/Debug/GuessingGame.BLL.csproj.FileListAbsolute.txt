@@ -1,6 +1,0 @@
-C:\Repos\Rhynook\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.dll
-C:\Repos\Rhynook\GuessingGame.BLL\bin\Debug\GuessingGame.BLL.pdb
-C:\Repos\Rhynook\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.csprojAssemblyReference.cache
-C:\Repos\Rhynook\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.csproj.CoreCompileInputs.cache
-C:\Repos\Rhynook\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.dll
-C:\Repos\Rhynook\GuessingGame.BLL\obj\Debug\GuessingGame.BLL.pdb

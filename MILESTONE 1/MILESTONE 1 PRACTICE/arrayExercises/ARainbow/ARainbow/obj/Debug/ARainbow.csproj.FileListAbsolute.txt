@@ -1,7 +1,0 @@
-C:\Users\Bob's PC\source\repos\ARainbow\ARainbow\bin\Debug\ARainbow.exe.config
-C:\Users\Bob's PC\source\repos\ARainbow\ARainbow\bin\Debug\ARainbow.exe
-C:\Users\Bob's PC\source\repos\ARainbow\ARainbow\bin\Debug\ARainbow.pdb
-C:\Users\Bob's PC\source\repos\ARainbow\ARainbow\obj\Debug\ARainbow.csprojAssemblyReference.cache
-C:\Users\Bob's PC\source\repos\ARainbow\ARainbow\obj\Debug\ARainbow.csproj.CoreCompileInputs.cache
-C:\Users\Bob's PC\source\repos\ARainbow\ARainbow\obj\Debug\ARainbow.exe
-C:\Users\Bob's PC\source\repos\ARainbow\ARainbow\obj\Debug\ARainbow.pdb

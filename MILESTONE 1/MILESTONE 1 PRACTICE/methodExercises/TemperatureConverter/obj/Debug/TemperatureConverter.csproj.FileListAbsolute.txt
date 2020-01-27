@@ -1,2 +1,0 @@
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter\obj\Debug\TemperatureConverter.csprojAssemblyReference.cache
-C:\Repos\Rhynook\practiceExercisesC#\methodExercises\TemperatureConverter\obj\Debug\TemperatureConverter.csproj.CoreCompileInputs.cache

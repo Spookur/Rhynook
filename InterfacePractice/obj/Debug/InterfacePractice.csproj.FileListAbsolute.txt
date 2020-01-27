@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\InterfacePractice\obj\Debug\InterfacePractice.csprojAssemblyReference.cache
+C:\Repos\Rhynook\InterfacePractice\obj\Debug\InterfacePractice.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\InterfacePractice\bin\Debug\InterfacePractice.exe.config
+C:\Repos\Rhynook\InterfacePractice\bin\Debug\InterfacePractice.exe
+C:\Repos\Rhynook\InterfacePractice\bin\Debug\InterfacePractice.pdb
+C:\Repos\Rhynook\InterfacePractice\obj\Debug\InterfacePractice.exe
+C:\Repos\Rhynook\InterfacePractice\obj\Debug\InterfacePractice.pdb

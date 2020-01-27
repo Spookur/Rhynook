@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\ContainsKey Practice\bin\Debug\ContainsKey Practice.exe.config
+C:\Repos\Rhynook\ContainsKey Practice\bin\Debug\ContainsKey Practice.exe
+C:\Repos\Rhynook\ContainsKey Practice\bin\Debug\ContainsKey Practice.pdb
+C:\Repos\Rhynook\ContainsKey Practice\obj\Debug\ContainsKey Practice.csprojAssemblyReference.cache
+C:\Repos\Rhynook\ContainsKey Practice\obj\Debug\ContainsKey Practice.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\ContainsKey Practice\obj\Debug\ContainsKey Practice.exe
+C:\Repos\Rhynook\ContainsKey Practice\obj\Debug\ContainsKey Practice.pdb

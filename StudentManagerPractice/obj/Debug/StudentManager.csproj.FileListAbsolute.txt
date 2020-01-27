@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\StudentManager\bin\Debug\StudentManager.exe.config
+C:\Repos\Rhynook\StudentManager\bin\Debug\StudentManager.exe
+C:\Repos\Rhynook\StudentManager\bin\Debug\StudentManager.pdb
+C:\Repos\Rhynook\StudentManager\obj\Debug\StudentManager.csprojAssemblyReference.cache
+C:\Repos\Rhynook\StudentManager\obj\Debug\StudentManager.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\StudentManager\obj\Debug\StudentManager.exe
+C:\Repos\Rhynook\StudentManager\obj\Debug\StudentManager.pdb
