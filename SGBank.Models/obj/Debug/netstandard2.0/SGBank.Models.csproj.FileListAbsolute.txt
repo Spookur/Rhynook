@@ -1,0 +1,9 @@
+C:\Repos\Rhynook\SGBank.Models\bin\Debug\netstandard2.0\SGBank.Models.deps.json
+C:\Repos\Rhynook\SGBank.Models\bin\Debug\netstandard2.0\SGBank.Models.dll
+C:\Repos\Rhynook\SGBank.Models\bin\Debug\netstandard2.0\SGBank.Models.pdb
+C:\Repos\Rhynook\SGBank.Models\obj\Debug\netstandard2.0\SGBank.Models.csprojAssemblyReference.cache
+C:\Repos\Rhynook\SGBank.Models\obj\Debug\netstandard2.0\SGBank.Models.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\SGBank.Models\obj\Debug\netstandard2.0\SGBank.Models.AssemblyInfoInputs.cache
+C:\Repos\Rhynook\SGBank.Models\obj\Debug\netstandard2.0\SGBank.Models.AssemblyInfo.cs
+C:\Repos\Rhynook\SGBank.Models\obj\Debug\netstandard2.0\SGBank.Models.dll
+C:\Repos\Rhynook\SGBank.Models\obj\Debug\netstandard2.0\SGBank.Models.pdb

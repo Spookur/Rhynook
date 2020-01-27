@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentManager.csproj", "{AC066ADE-E926-42E2-B3F1-0C057CC5CC7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemIO.Test", "..\SystemIO.Test\SystemIO.Test.csproj", "{70EE085D-C6E8-4390-8575-5E87315F8BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC066ADE-E926-42E2-B3F1-0C057CC5CC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC066ADE-E926-42E2-B3F1-0C057CC5CC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC066ADE-E926-42E2-B3F1-0C057CC5CC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC066ADE-E926-42E2-B3F1-0C057CC5CC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EE085D-C6E8-4390-8575-5E87315F8BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EE085D-C6E8-4390-8575-5E87315F8BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EE085D-C6E8-4390-8575-5E87315F8BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EE085D-C6E8-4390-8575-5E87315F8BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8642FFED-5897-4B49-A85A-C444141C7F86}
+	EndGlobalSection
+EndGlobal

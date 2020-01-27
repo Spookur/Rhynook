@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\jilly\bin\Debug\jilly.exe.config
+C:\Repos\Rhynook\jilly\bin\Debug\jilly.exe
+C:\Repos\Rhynook\jilly\bin\Debug\jilly.pdb
+C:\Repos\Rhynook\jilly\obj\Debug\jilly.csprojAssemblyReference.cache
+C:\Repos\Rhynook\jilly\obj\Debug\jilly.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\jilly\obj\Debug\jilly.exe
+C:\Repos\Rhynook\jilly\obj\Debug\jilly.pdb

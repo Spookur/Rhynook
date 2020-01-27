@@ -124,7 +124,7 @@ namespace PokemonManager.Controller
             Pokemon pokemon = repo.ReadByID(editId); // id is equal to corresponding Pokemon from repo
             pokemon.Print(); // displays the Pokemon
             Pokemon newPokemon = view.NewPokemonInfo();
-            // try newPokemon = pokemon
+            
             repo.Update(pokemon.Id, newPokemon.Name, newPokemon.PokeType, newPokemon.Description, newPokemon.Id);
             
             

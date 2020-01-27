@@ -1,0 +1,8 @@
+C:\Repos\Rhynook\ContainsKey\bin\Debug\netcoreapp2.1\ContainsKey.deps.json
+C:\Repos\Rhynook\ContainsKey\bin\Debug\netcoreapp2.1\ContainsKey.runtimeconfig.json
+C:\Repos\Rhynook\ContainsKey\bin\Debug\netcoreapp2.1\ContainsKey.runtimeconfig.dev.json
+C:\Repos\Rhynook\ContainsKey\bin\Debug\netcoreapp2.1\ContainsKey.dll
+C:\Repos\Rhynook\ContainsKey\obj\Debug\netcoreapp2.1\ContainsKey.csprojAssemblyReference.cache
+C:\Repos\Rhynook\ContainsKey\obj\Debug\netcoreapp2.1\ContainsKey.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\ContainsKey\obj\Debug\netcoreapp2.1\ContainsKey.AssemblyInfoInputs.cache
+C:\Repos\Rhynook\ContainsKey\obj\Debug\netcoreapp2.1\ContainsKey.AssemblyInfo.cs
