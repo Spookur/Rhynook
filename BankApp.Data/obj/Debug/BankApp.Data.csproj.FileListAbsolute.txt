@@ -1,0 +1,9 @@
+C:\Repos\Rhynook\BankApp.Data\bin\Debug\BankApp.Data.dll
+C:\Repos\Rhynook\BankApp.Data\bin\Debug\BankApp.Data.pdb
+C:\Repos\Rhynook\BankApp.Data\bin\Debug\BankApp.Models.dll
+C:\Repos\Rhynook\BankApp.Data\bin\Debug\BankApp.Models.pdb
+C:\Repos\Rhynook\BankApp.Data\obj\Debug\BankApp.Data.csprojAssemblyReference.cache
+C:\Repos\Rhynook\BankApp.Data\obj\Debug\BankApp.Data.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\BankApp.Data\obj\Debug\BankApp.Data.csproj.CopyComplete
+C:\Repos\Rhynook\BankApp.Data\obj\Debug\BankApp.Data.dll
+C:\Repos\Rhynook\BankApp.Data\obj\Debug\BankApp.Data.pdb

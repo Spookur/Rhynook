@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\RNG\bin\Debug\RNG.exe.config
+C:\Repos\Rhynook\RNG\bin\Debug\RNG.exe
+C:\Repos\Rhynook\RNG\bin\Debug\RNG.pdb
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.csprojAssemblyReference.cache
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.exe
+C:\Repos\Rhynook\RNG\obj\Debug\RNG.pdb

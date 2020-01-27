@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\StudentManagerRetry\bin\Debug\StudentManagerRetry.exe.config
+C:\Repos\Rhynook\StudentManagerRetry\bin\Debug\StudentManagerRetry.exe
+C:\Repos\Rhynook\StudentManagerRetry\bin\Debug\StudentManagerRetry.pdb
+C:\Repos\Rhynook\StudentManagerRetry\obj\Debug\StudentManagerRetry.csprojAssemblyReference.cache
+C:\Repos\Rhynook\StudentManagerRetry\obj\Debug\StudentManagerRetry.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\StudentManagerRetry\obj\Debug\StudentManagerRetry.exe
+C:\Repos\Rhynook\StudentManagerRetry\obj\Debug\StudentManagerRetry.pdb

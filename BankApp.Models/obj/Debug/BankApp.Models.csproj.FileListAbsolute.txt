@@ -1,0 +1,6 @@
+C:\Repos\Rhynook\BankApp.Models\bin\Debug\BankApp.Models.dll
+C:\Repos\Rhynook\BankApp.Models\bin\Debug\BankApp.Models.pdb
+C:\Repos\Rhynook\BankApp.Models\obj\Debug\BankApp.Models.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\BankApp.Models\obj\Debug\BankApp.Models.dll
+C:\Repos\Rhynook\BankApp.Models\obj\Debug\BankApp.Models.pdb
+C:\Repos\Rhynook\BankApp.Models\obj\Debug\BankApp.Models.csprojAssemblyReference.cache
