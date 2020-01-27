@@ -1,6 +1,0 @@
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Data\bin\Debug\VulpixManager.Data.dll
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Data\bin\Debug\VulpixManager.Data.pdb
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Data\obj\Debug\VulpixManager.Data.csprojAssemblyReference.cache
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Data\obj\Debug\VulpixManager.Data.csproj.CoreCompileInputs.cache
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Data\obj\Debug\VulpixManager.Data.dll
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Data\obj\Debug\VulpixManager.Data.pdb

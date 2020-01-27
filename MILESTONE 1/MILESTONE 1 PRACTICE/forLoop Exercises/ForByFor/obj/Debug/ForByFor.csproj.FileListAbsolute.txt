@@ -1,6 +1,0 @@
-C:\Users\Bob's PC\source\repos\ForByFor\bin\Debug\ForByFor.exe.config
-C:\Users\Bob's PC\source\repos\ForByFor\bin\Debug\ForByFor.exe
-C:\Users\Bob's PC\source\repos\ForByFor\bin\Debug\ForByFor.pdb
-C:\Users\Bob's PC\source\repos\ForByFor\obj\Debug\ForByFor.csproj.CoreCompileInputs.cache
-C:\Users\Bob's PC\source\repos\ForByFor\obj\Debug\ForByFor.exe
-C:\Users\Bob's PC\source\repos\ForByFor\obj\Debug\ForByFor.pdb

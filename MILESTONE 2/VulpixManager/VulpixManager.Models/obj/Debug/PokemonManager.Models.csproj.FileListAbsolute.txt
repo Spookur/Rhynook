@@ -1,6 +1,0 @@
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Models\bin\Debug\VulpixManager.Models.dll
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Models\bin\Debug\VulpixManager.Models.pdb
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Models\obj\Debug\PokemonManager.Models.csprojAssemblyReference.cache
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Models\obj\Debug\PokemonManager.Models.csproj.CoreCompileInputs.cache
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Models\obj\Debug\VulpixManager.Models.dll
-C:\Repos\Rhynook\MILESTONE 2\VulpixManager\VulpixManager.Models\obj\Debug\VulpixManager.Models.pdb
