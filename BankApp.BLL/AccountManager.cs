@@ -1,4 +1,5 @@
 ﻿using BankApp.BLL.DepositRules;
+using BankApp.BLL.WithdrawRules;
 using BankApp.Models.Interfaces;
 using BankApp.Models.Responses;
 using System;
@@ -66,6 +67,28 @@ namespace BankApp.BLL
             }
 
             return response;
+        }
+
+        public AccountWithdrawResponse Withdraw(string accountNumber, decimal amount)
+        {
+            AccountWithdrawResponse response = new AccountWithdrawResponse();
+            response.Account = _accountRepository.LoadAccount(accountNumber);
+            if(response.Account == null)
+            {
+                response.Success = false;
+                response.Message = "Invalid Account Number";
+                return response;
+            }
+            IWithdraw withdraw = WithdrawRulesFactory.Create(response.Account.Type);
+            response = withdraw.Withdraw(response.Account, amount);
+            if(response.Success)
+            {
+                _accountRepository.SaveAccount(response.Account);
+            }
+
+            return response;
+
+
         }
     }
 }

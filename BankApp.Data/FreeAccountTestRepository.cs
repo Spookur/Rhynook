@@ -20,7 +20,13 @@ namespace BankApp.Data
 
         public Account LoadAccount(string AccountNumber)
         {
+            if(AccountNumber == _account.AccountNumber)
+
             return _account;
+            else
+            {
+                return null;
+            }
         }
 
         public void SaveAccount(Account account)
