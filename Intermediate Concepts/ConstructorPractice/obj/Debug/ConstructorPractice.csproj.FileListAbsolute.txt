@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\Intermediate Concepts\ConstructorPractice\bin\Debug\ConstructorPractice.exe.config
+C:\Repos\Rhynook\Intermediate Concepts\ConstructorPractice\bin\Debug\ConstructorPractice.exe
+C:\Repos\Rhynook\Intermediate Concepts\ConstructorPractice\bin\Debug\ConstructorPractice.pdb
+C:\Repos\Rhynook\Intermediate Concepts\ConstructorPractice\obj\Debug\ConstructorPractice.csprojAssemblyReference.cache
+C:\Repos\Rhynook\Intermediate Concepts\ConstructorPractice\obj\Debug\ConstructorPractice.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\Intermediate Concepts\ConstructorPractice\obj\Debug\ConstructorPractice.exe
+C:\Repos\Rhynook\Intermediate Concepts\ConstructorPractice\obj\Debug\ConstructorPractice.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerRetry", "StudentManagerRetry.csproj", "{BA34076B-3B4A-4CD7-B125-BFC43DDB7235}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerRetry.Tests", "..\StudentManagerRetry.Tests\StudentManagerRetry.Tests.csproj", "{609B7C7A-CC83-40CA-8586-DD2CE75BCF9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA34076B-3B4A-4CD7-B125-BFC43DDB7235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA34076B-3B4A-4CD7-B125-BFC43DDB7235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA34076B-3B4A-4CD7-B125-BFC43DDB7235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA34076B-3B4A-4CD7-B125-BFC43DDB7235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{609B7C7A-CC83-40CA-8586-DD2CE75BCF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{609B7C7A-CC83-40CA-8586-DD2CE75BCF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{609B7C7A-CC83-40CA-8586-DD2CE75BCF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{609B7C7A-CC83-40CA-8586-DD2CE75BCF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {625E1BC0-3EC0-4294-B885-DF35D50E988F}
+	EndGlobalSection
+EndGlobal

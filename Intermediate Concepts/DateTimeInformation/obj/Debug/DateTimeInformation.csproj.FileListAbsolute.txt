@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\DateTimeInformation\bin\Debug\DateTimeInformation.exe.config
+C:\Repos\Rhynook\DateTimeInformation\bin\Debug\DateTimeInformation.exe
+C:\Repos\Rhynook\DateTimeInformation\bin\Debug\DateTimeInformation.pdb
+C:\Repos\Rhynook\DateTimeInformation\obj\Debug\DateTimeInformation.csprojAssemblyReference.cache
+C:\Repos\Rhynook\DateTimeInformation\obj\Debug\DateTimeInformation.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\DateTimeInformation\obj\Debug\DateTimeInformation.exe
+C:\Repos\Rhynook\DateTimeInformation\obj\Debug\DateTimeInformation.pdb

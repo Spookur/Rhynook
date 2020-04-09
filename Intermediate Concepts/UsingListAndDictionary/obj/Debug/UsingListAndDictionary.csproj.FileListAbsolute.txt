@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\UsingListAndDictionary\bin\Debug\UsingListAndDictionary.exe.config
+C:\Repos\Rhynook\UsingListAndDictionary\bin\Debug\UsingListAndDictionary.exe
+C:\Repos\Rhynook\UsingListAndDictionary\bin\Debug\UsingListAndDictionary.pdb
+C:\Repos\Rhynook\UsingListAndDictionary\obj\Debug\UsingListAndDictionary.csprojAssemblyReference.cache
+C:\Repos\Rhynook\UsingListAndDictionary\obj\Debug\UsingListAndDictionary.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\UsingListAndDictionary\obj\Debug\UsingListAndDictionary.exe
+C:\Repos\Rhynook\UsingListAndDictionary\obj\Debug\UsingListAndDictionary.pdb

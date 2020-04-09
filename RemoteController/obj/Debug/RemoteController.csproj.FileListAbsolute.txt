@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\RemoteController\bin\Debug\RemoteController.exe.config
+C:\Repos\Rhynook\RemoteController\bin\Debug\RemoteController.exe
+C:\Repos\Rhynook\RemoteController\bin\Debug\RemoteController.pdb
+C:\Repos\Rhynook\RemoteController\obj\Debug\RemoteController.csprojAssemblyReference.cache
+C:\Repos\Rhynook\RemoteController\obj\Debug\RemoteController.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\RemoteController\obj\Debug\RemoteController.exe
+C:\Repos\Rhynook\RemoteController\obj\Debug\RemoteController.pdb

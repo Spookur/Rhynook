@@ -1,0 +1,7 @@
+C:\Repos\Rhynook\Advanced Concepts\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe.config
+C:\Repos\Rhynook\Advanced Concepts\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.exe
+C:\Repos\Rhynook\Advanced Concepts\InheritanceAndPolymorphism\bin\Debug\InheritanceAndPolymorphism.pdb
+C:\Repos\Rhynook\Advanced Concepts\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.csprojAssemblyReference.cache
+C:\Repos\Rhynook\Advanced Concepts\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.csproj.CoreCompileInputs.cache
+C:\Repos\Rhynook\Advanced Concepts\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.exe
+C:\Repos\Rhynook\Advanced Concepts\InheritanceAndPolymorphism\obj\Debug\InheritanceAndPolymorphism.pdb
