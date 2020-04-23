@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Claw Machine</title>
+        <link href="css/bootstrap.css" rel="stylesheet">
+    </head>
+
+    <body>
+<div class="container">
+    <div class="row">
+        <div class="col-12">
+            
+            <!-- Center this H1 -->
+            <h1 style="text-align: center">Claw Machine</h1> 
+            <hr/>
+        </div>
+    </div>
+    
+    <!-- where the items boxes will be -->
+    <div class="row">
+        <div class="col-9">
+            <div class="row" id="itemBoxes">
+                <div class="col-4" id="itemTemplate">
+                    Items not yet loaded...
+                </div>
+            </div>
+    </div>
+        <div class="col-3">
+            
+            <!-- Money deposit column that will change on the fly -->
+            <div class="row" id="moneyIn">
+                <div class="col text-center">
+                    <div class="h3">Total $ In</div>
+                    <div class="h3 bg-light border-dark">$<span id="money">0.00</span></div>
+                    <div class="border-dark row">
+                        
+                        <!-- Added four buttons for coins -->
+                        <button class="btn btn-primary col-6" onclick="addMoney(100)">Add Dollar</button>
+                        <button class="btn btn-primary col-6" onclick="addMoney(25)">Add Quarter</button>
+                        <button class="btn btn-primary col-6" onclick="addMoney(10)">Add Dime</button>
+                        <button class="btn btn-primary col-6" onclick="addMoney(5)">Add Nickel</button>
+                    </div>
+                </div>
+            </div>
+            <hr/>
+            <div class="row" id="messages">
+                <div class="col text-center">
+                    <div class="h3">Messages</div>
+                    <textarea class="h6 bg-light border-dark" id="messageBox" rows="4" readonly></textarea>
+                    <div class="row">
+                        <div class="col-6 text-right">
+                            <label for="itemId" class="h4">Item: </label>
+                        </div>
+                        <div class="col-6 text-left">
+                            <textarea class="h4 bg-light border-dark" rows="1" cols="2" id="itemId" readonly></textarea>
+                        </div>
+                    </div>
+                    
+                    <!-- Make Purchase Button that hits the makePurchase() function -->
+                    <button class="btn btn-primary" onclick="makePurchase()">Make Purchase</button>
+                </div>
+            </div>
+            <hr/>
+            
+            <!-- Change section -->
+            <div class="row" id="change">
+                <div class="col text-center">
+                    <div class="h3">Change</div>
+                    <textarea class="h6 bg-light border-dark" id="changeBox" rows="4" readonly></textarea>
+                    
+                    <!-- Change Return button that hits the takeChange() function -->
+                    <button class="btn btn-primary" onclick="takeChange()">Change Return</button> 
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<input type="number" hidden value="0" id="goAwayFloatingPoint">
+
+
+
+        <script src="js/jquery-2.2.4.min.js"></script>
+        <script src="js/bootstrap.js"></script>
+        <script src="js/home.js"></script>
+    </body>
+</html>
