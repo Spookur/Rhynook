@@ -1,0 +1,50 @@
+﻿@model FirstWebApp.Models.CurrentWeather
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Weather</title>
+</head>
+<body>
+    <div>
+        <h1>Current Weather</h1>
+        <table>
+            <tr>
+                <td><strong>Date</strong></td>
+                <td>@Model.Date.ToShortDateString()</td>
+            </tr>
+            <tr>
+                <td><strong>High</strong></td>
+                <td>@Model.High</td>
+            </tr>
+            <tr>
+                <td><strong>Low</strong></td>
+                <td>@Model.Low</td>
+            </tr>
+            <tr>
+                <td><strong>Description</strong></td>
+                <td>
+                    @if (Model.Description == "Sunny")
+                    {
+                        <img src="@Href("~/Images/yasss.png")" width="100" height="50"/>
+                    }
+                    else if (Model.Description == "Cloudy with a chance of rain.")
+                    {
+                        <img src="@Href("~/Images/DSC_0251.jpg")" width="100" height="100" />
+                    }
+                    else
+                    {
+                        <span>@Model.Description</span>
+                    }
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
