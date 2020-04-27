@@ -10,14 +10,14 @@
         "projectUniqueName": "C:\\Repos\\Rhynook\\MyFirstApp\\MyFirstApp.csproj",
         "projectName": "MyFirstApp",
         "projectPath": "C:\\Repos\\Rhynook\\MyFirstApp\\MyFirstApp.csproj",
-        "packagesPath": "C:\\Users\\Coby\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
         "outputPath": "C:\\Repos\\Rhynook\\MyFirstApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Coby\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
